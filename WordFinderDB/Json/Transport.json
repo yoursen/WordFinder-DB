@@ -1,0 +1,28 @@
+[
+    {"word": "Bike", "description": "A two-wheeled vehicle that you pedal to move.", "category": "Transport", "complexity": "Easy"},
+    {"word": "Car", "description": "A four-wheeled motor vehicle used for transportation.", "category": "Transport", "complexity": "Easy"},
+    {"word": "Train", "description": "A series of connected vehicles traveling on railways.", "category": "Transport", "complexity": "Easy"},
+    {"word": "Boat", "description": "A small vessel for traveling over water.", "category": "Transport", "complexity": "Easy"},
+    {"word": "Subway", "description": "An underground electric railroad in a city.", "category": "Transport", "complexity": "Medium"},
+    {"word": "Helicopter", "description": "An aircraft with rotating blades that can hover and move in all directions.", "category": "Transport", "complexity": "Medium"},
+    {"word": "Scooter", "description": "A small vehicle with a low platform and two or three wheels.", "category": "Transport", "complexity": "Easy"},
+    {"word": "Truck", "description": "A large, heavy road vehicle for carrying goods.", "category": "Transport", "complexity": "Easy"},
+    {"word": "Canoe", "description": "A narrow boat with pointed ends, propelled by paddles.", "category": "Transport", "complexity": "Medium"},
+    {"word": "Ferry", "description": "A boat or ship for conveying passengers and goods across water.", "category": "Transport", "complexity": "Medium"},
+    {"word": "Skateboard", "description": "A short narrow board with two small wheels at each end.", "category": "Transport", "complexity": "Easy"},
+    {"word": "Segway", "description": "A two-wheeled electric vehicle used for personal transportation.", "category": "Transport", "complexity": "Medium"},
+    {"word": "Balloon", "description": "A large bag filled with hot air or gas to make it rise in the air.", "category": "Transport", "complexity": "Hard"},
+    {"word": "Glider", "description": "An aircraft without an engine, designed to glide after being towed aloft.", "category": "Transport", "complexity": "Hard"},
+    {"word": "Rocket", "description": "A vehicle designed to propel itself by ejecting exhaust gas from one end.", "category": "Transport", "complexity": "Hard"},
+    {"word": "Jet", "description": "An aircraft powered by one or more jet engines.", "category": "Transport", "complexity": "Medium"},
+    {"word": "Monorail", "description": "A railway having a single track.", "category": "Transport", "complexity": "Medium"},
+    {"word": "Cable Car", "description": "A vehicle moved by a continuously moving cable for transporting passengers.", "category": "Transport", "complexity": "Medium"},
+    {"word": "Rickshaw", "description": "A light two-wheeled hooded vehicle drawn by one or more people.", "category": "Transport", "complexity": "Medium"},
+    {"word": "Yacht", "description": "A medium-sized sailboat equipped for cruising or racing.", "category": "Transport", "complexity": "Hard"},
+    {"word": "Sled", "description": "A vehicle of various forms, mounted on runners for sliding.", "category": "Transport", "complexity": "Easy"},
+    {"word": "Hovercraft", "description": "A vehicle that glides over a surface by blowing air downwards.", "category": "Transport", "complexity": "Hard"},
+    {"word": "Zeppelin", "description": "A large dirigible airship.", "category": "Transport", "complexity": "Hard"},
+    {"word": "Submarine", "description": "A watercraft capable of independent operation underwater.", "category": "Transport", "complexity": "Hard"},
+    {"word": "Shuttle", "description": "A reusable spacecraft with wings for landing on a runway.", "category": "Transport", "complexity": "Hard"}
+  ]
+  

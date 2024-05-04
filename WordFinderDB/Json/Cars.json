@@ -1,0 +1,28 @@
+[
+    {"word": "Sedan", "description": "A car with four doors and a separate trunk.", "category": "Cars", "complexity": "Easy"},
+    {"word": "Coupe", "description": "A car with two doors and a fixed roof.", "category": "Cars", "complexity": "Easy"},
+    {"word": "Hatchback", "description": "A car with a rear door that swings upward to open.", "category": "Cars", "complexity": "Easy"},
+    {"word": "Convertible", "description": "A car with a roof that can be folded or removed.", "category": "Cars", "complexity": "Medium"},
+    {"word": "SUV", "description": "A large vehicle with off-road capabilities and high seating.", "category": "Cars", "complexity": "Medium"},
+    {"word": "Minivan", "description": "A boxy car designed for transporting families with sliding side doors.", "category": "Cars", "complexity": "Medium"},
+    {"word": "Turbocharger", "description": "A device that increases engine power by forcing extra air into the combustion chamber.", "category": "Cars", "complexity": "Hard"},
+    {"word": "Hybrid", "description": "A car powered by a combination of an internal combustion engine and an electric motor.", "category": "Cars", "complexity": "Medium"},
+    {"word": "Drivetrain", "description": "The group of components that deliver power to the driving wheels.", "category": "Cars", "complexity": "Hard"},
+    {"word": "Chassis", "description": "The car's framework that supports the body and engine.", "category": "Cars", "complexity": "Hard"},
+    {"word": "Spoiler", "description": "An attachment on a car that helps reduce air resistance or 'drag'.", "category": "Cars", "complexity": "Medium"},
+    {"word": "Cylinder", "description": "A chamber in the engine where fuel is burned to create power.", "category": "Cars", "complexity": "Medium"},
+    {"word": "Transmission", "description": "A system that transmits power from the engine to the wheels.", "category": "Cars", "complexity": "Hard"},
+    {"word": "Axle", "description": "A rod or spindle passing through the center of a wheel or group of wheels.", "category": "Cars", "complexity": "Medium"},
+    {"word": "Clutch", "description": "A mechanism for connecting and disconnecting the engine and transmission.", "category": "Cars", "complexity": "Hard"},
+    {"word": "Radiator", "description": "A device for cooling the engine by circulating liquid through it.", "category": "Cars", "complexity": "Medium"},
+    {"word": "Odometer", "description": "An instrument that measures the distance traveled by a vehicle.", "category": "Cars", "complexity": "Easy"},
+    {"word": "Tachometer", "description": "A gauge that shows the engine's RPM (revolutions per minute).", "category": "Cars", "complexity": "Medium"},
+    {"word": "Cruise Control", "description": "A system that automatically controls the speed of a vehicle.", "category": "Cars", "complexity": "Medium"},
+    {"word": "Alloy Wheels", "description": "Wheels made from a mixture of metals, typically lighter and stronger than steel.", "category": "Cars", "complexity": "Medium"},
+    {"word": "Differential", "description": "A set of gears allowing the wheels to spin at different speeds while turning.", "category": "Cars", "complexity": "Hard"},
+    {"word": "Fuel Injector", "description": "A device that sprays fuel into the engine's combustion chamber.", "category": "Cars", "complexity": "Hard"},
+    {"word": "Supercharger", "description": "A device that forces air into the engine to increase power.", "category": "Cars", "complexity": "Hard"},
+    {"word": "Turbo", "description": "Short for turbocharger, it boosts engine power by recycling exhaust gases.", "category": "Cars", "complexity": "Hard"},
+    {"word": "ABS", "description": "Anti-lock Braking System prevents the wheels from locking up during braking.", "category": "Cars", "complexity": "Medium"}
+  ]
+  

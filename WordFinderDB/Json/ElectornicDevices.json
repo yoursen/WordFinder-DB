@@ -1,0 +1,28 @@
+[
+    {"word": "Phone", "description": "A device to talk to someone far away.", "category": "Electronic Devices", "complexity": "Easy"},
+    {"word": "Laptop", "description": "A portable computer you can use anywhere.", "category": "Electronic Devices", "complexity": "Easy"},
+    {"word": "Earbuds", "description": "Small headphones that fit inside your ears.", "category": "Electronic Devices", "complexity": "Easy"},
+    {"word": "Charger", "description": "A device that powers up your electronics.", "category": "Electronic Devices", "complexity": "Easy"},
+    {"word": "Mouse", "description": "A device to point and click on a computer.", "category": "Electronic Devices", "complexity": "Easy"},
+    {"word": "Keyboard", "description": "A set of keys to type on a computer.", "category": "Electronic Devices", "complexity": "Easy"},
+    {"word": "Tablet", "description": "A flat computer with a touchscreen.", "category": "Electronic Devices", "complexity": "Medium"},
+    {"word": "Monitor", "description": "A screen for showing computer images.", "category": "Electronic Devices", "complexity": "Medium"},
+    {"word": "Speaker", "description": "A device that plays sound out loud.", "category": "Electronic Devices", "complexity": "Medium"},
+    {"word": "Router", "description": "A device that gives you internet access.", "category": "Electronic Devices", "complexity": "Medium"},
+    {"word": "Flash Drive", "description": "A small tool to store digital files.", "category": "Electronic Devices", "complexity": "Medium"},
+    {"word": "Game Console", "description": "A device to play video games on a TV.", "category": "Electronic Devices", "complexity": "Medium"},
+    {"word": "Drone", "description": "A flying robot you can control remotely.", "category": "Electronic Devices", "complexity": "Hard"},
+    {"word": "Smartwatch", "description": "A watch that can do more than tell time.", "category": "Electronic Devices", "complexity": "Hard"},
+    {"word": "VR Headset", "description": "Goggles that let you see a virtual world.", "category": "Electronic Devices", "complexity": "Hard"},
+    {"word": "E-reader", "description": "A device for reading digital books.", "category": "Electronic Devices", "complexity": "Hard"},
+    {"word": "3D Printer", "description": "A machine that can print three-dimensional objects.", "category": "Electronic Devices", "complexity": "Hard"},
+    {"word": "Robot Vacuum", "description": "A self-moving vacuum cleaner.", "category": "Electronic Devices", "complexity": "Hard"},
+    {"word": "Action Camera", "description": "A small camera for recording adventures.", "category": "Electronic Devices", "complexity": "Hard"},
+    {"word": "Fitness Tracker", "description": "A band that measures your physical activity.", "category": "Electronic Devices", "complexity": "Hard"},
+    {"word": "Smart Thermostat", "description": "A device to control your home's temperature.", "category": "Electronic Devices", "complexity": "Hard"},
+    {"word": "Graphics Card", "description": "A part of the computer that makes the images.", "category": "Electronic Devices", "complexity": "Hard"},
+    {"word": "Motherboard", "description": "The main circuit board in a computer.", "category": "Electronic Devices", "complexity": "Hard"},
+    {"word": "Processor", "description": "The brain of the computer.", "category": "Electronic Devices", "complexity": "Hard"},
+    {"word": "Modem", "description": "A device that connects your home to the internet.", "category": "Electronic Devices", "complexity": "Hard"}
+  ]
+  

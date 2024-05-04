@@ -1,0 +1,28 @@
+[
+    {"word": "Park", "description": "A public area with trees and paths where people can walk and relax.", "category": "City", "complexity": "Easy"},
+    {"word": "Museum", "description": "A building where historical, artistic, or scientific objects are kept and shown.", "category": "City", "complexity": "Easy"},
+    {"word": "Subway", "description": "An underground electric railway system in a city.", "category": "City", "complexity": "Easy"},
+    {"word": "Cafe", "description": "A small restaurant where you can buy drinks and simple meals.", "category": "City", "complexity": "Easy"},
+    {"word": "Plaza", "description": "An open public area in a city where people can gather.", "category": "City", "complexity": "Medium"},
+    {"word": "Boulevard", "description": "A wide city street, often with trees along the sides.", "category": "City", "complexity": "Medium"},
+    {"word": "Skyscraper", "description": "A very tall building in a city.", "category": "City", "complexity": "Medium"},
+    {"word": "District", "description": "A specific area within a city, often with a distinct character.", "category": "City", "complexity": "Medium"},
+    {"word": "Metropolis", "description": "A very large and busy city, often an important cultural and economic center.", "category": "City", "complexity": "Hard"},
+    {"word": "Infrastructure", "description": "The basic systems and services, such as transport and power supplies, that a city needs to work effectively.", "category": "City", "complexity": "Hard"},
+    {"word": "Megacity", "description": "An extremely large city, typically with a population of over ten million people.", "category": "City", "complexity": "Hard"},
+    {"word": "Urbanization", "description": "The process by which more and more people leave the countryside to live in cities.", "category": "City", "complexity": "Hard"},
+    {"word": "Conurbation", "description": "A large area made up of several large cities and towns that have grown to join together.", "category": "City", "complexity": "Hard"},
+    {"word": "Gentrification", "description": "The process by which wealthier people move into, renovate, and restore housing and sometimes businesses in urban neighborhoods.", "category": "City", "complexity": "Hard"},
+    {"word": "Borough", "description": "A town or part of a large city, having its own local government.", "category": "City", "complexity": "Medium"},
+    {"word": "Avenue", "description": "A wide street or main thoroughfare.", "category": "City", "complexity": "Easy"},
+    {"word": "Commute", "description": "Travel some distance between one's home and place of work on a regular basis.", "category": "City", "complexity": "Medium"},
+    {"word": "Landmark", "description": "A building or place that is easily recognized, especially one that you can use to judge where you are.", "category": "City", "complexity": "Easy"},
+    {"word": "Alley", "description": "A narrow passageway between or behind buildings.", "category": "City", "complexity": "Easy"},
+    {"word": "Cathedral", "description": "The principal church of a diocese, with which the bishop is officially associated.", "category": "City", "complexity": "Medium"},
+    {"word": "Capital", "description": "The city or town that functions as the seat of government and administrative center of a country or region.", "category": "City", "complexity": "Easy"},
+    {"word": "Facade", "description": "The front of a building, especially an imposing or decorative one.", "category": "City", "complexity": "Medium"},
+    {"word": "Pedestrian", "description": "A person walking rather than traveling in a vehicle.", "category": "City", "complexity": "Easy"},
+    {"word": "Intersection", "description": "A point or line common to lines or surfaces that intersect.", "category": "City", "complexity": "Easy"},
+    {"word": "Monument", "description": "A statue, building, or other structure erected to commemorate a notable person or event.", "category": "City", "complexity": "Medium"}
+  ]
+  

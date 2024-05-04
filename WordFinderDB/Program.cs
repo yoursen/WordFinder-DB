@@ -63,6 +63,7 @@ class Program
             words.AddRange(jsonWords);
             Console.Write($"Read {jsonWords.Count()} words from file {Path.GetFileName(f)}");
         }
+        Console.WriteLine($"Total words count {words.Count}");
         return words.ToArray();
     }
 }

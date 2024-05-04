@@ -1,0 +1,20 @@
+[
+    {"word": "App", "description": "A program on a phone or computer.", "category": "Technology", "complexity": "Easy"},
+    {"word": "Blog", "description": "A website with regular posts about topics.", "category": "Technology", "complexity": "Easy"},
+    {"word": "Code", "description": "Instructions for computers to perform tasks.", "category": "Technology", "complexity": "Easy"},
+    {"word": "Data", "description": "Information stored or used by a computer.", "category": "Technology", "complexity": "Easy"},
+    {"word": "Email", "description": "Messages sent over the internet.", "category": "Technology", "complexity": "Easy"},
+    {"word": "File", "description": "A document stored on a computer.", "category": "Technology", "complexity": "Easy"},
+    {"word": "HTML", "description": "Language for creating web pages.", "category": "Technology", "complexity": "Medium"},
+    {"word": "Icon", "description": "A small picture representing a program or file.", "category": "Technology", "complexity": "Medium"},
+    {"word": "Java", "description": "A programming language for apps and websites.", "category": "Technology", "complexity": "Medium"},
+    {"word": "Modem", "description": "Device connecting a computer to the internet.", "category": "Technology", "complexity": "Medium"},
+    {"word": "Pixel", "description": "The smallest unit of a digital image.", "category": "Technology", "complexity": "Medium"},
+    {"word": "Query", "description": "A request for information from a database.", "category": "Technology", "complexity": "Hard"},
+    {"word": "Robot", "description": "A machine programmed to perform tasks.", "category": "Technology", "complexity": "Hard"},
+    {"word": "Server", "description": "A computer that provides data to other computers.", "category": "Technology", "complexity": "Hard"},
+    {"word": "URL", "description": "The address of a web page.", "category": "Technology", "complexity": "Hard"},
+    {"word": "Virus", "description": "A program that can harm a computer.", "category": "Technology", "complexity": "Hard"},
+    {"word": "Widget", "description": "A small application with limited functionality.", "category": "Technology", "complexity": "Hard"}
+  ]
+  

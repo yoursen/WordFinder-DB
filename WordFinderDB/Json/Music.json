@@ -1,0 +1,28 @@
+[
+    {"word": "beat", "description": "A regular rhythmic sound in music.", "category": "Music", "complexity": "Easy"},
+    {"word": "lyrics", "description": "The words of a song.", "category": "Music", "complexity": "Easy"},
+    {"word": "melody", "description": "A sequence of pleasing sounds in music.", "category": "Music", "complexity": "Easy"},
+    {"word": "genre", "description": "A style or category of music.", "category": "Music", "complexity": "Medium"},
+    {"word": "harmony", "description": "When different notes are played together and sound nice.", "category": "Music", "complexity": "Medium"},
+    {"word": "tempo", "description": "The speed of the beat in music.", "category": "Music", "complexity": "Medium"},
+    {"word": "acoustic", "description": "Music played without electric instruments.", "category": "Music", "complexity": "Medium"},
+    {"word": "ballad", "description": "A slow sentimental or romantic song.", "category": "Music", "complexity": "Medium"},
+    {"word": "chorus", "description": "The part of a song that's repeated after each verse.", "category": "Music", "complexity": "Medium"},
+    {"word": "octave", "description": "A series of eight notes occupying the interval between two notes.", "category": "Music", "complexity": "Hard"},
+    {"word": "sonata", "description": "A composition for an instrumental soloist, often with a piano accompaniment.", "category": "Music", "complexity": "Hard"},
+    {"word": "fugue", "description": "A complex piece of music with parts repeated in different voices.", "category": "Music", "complexity": "Hard"},
+    {"word": "syncopation", "description": "A disturbance or interruption of the regular flow of rhythm.", "category": "Music", "complexity": "Hard"},
+    {"word": "timbre", "description": "The character or quality of a musical sound or voice.", "category": "Music", "complexity": "Hard"},
+    {"word": "dissonance", "description": "A lack of harmony among musical notes.", "category": "Music", "complexity": "Hard"},
+    {"word": "arpeggio", "description": "Playing the notes of a chord one after another.", "category": "Music", "complexity": "Hard"},
+    {"word": "cadence", "description": "A sequence of notes signaling the end of a piece of music.", "category": "Music", "complexity": "Hard"},
+    {"word": "concerto", "description": "A musical composition for a solo instrument accompanied by an orchestra.", "category": "Music", "complexity": "Hard"},
+    {"word": "falsetto", "description": "A method of voice production used by male singers to sing higher notes.", "category": "Music", "complexity": "Hard"},
+    {"word": "legato", "description": "In a smooth flowing manner, without breaks between notes.", "category": "Music", "complexity": "Hard"},
+    {"word": "vibrato", "description": "A rapid, slight variation in pitch in singing or playing some musical instruments.", "category": "Music", "complexity": "Hard"},
+    {"word": "riff", "description": "A short repeated phrase in popular music and jazz.", "category": "Music", "complexity": "Medium"},
+    {"word": "mixtape", "description": "A compilation of favorite pieces of music, typically by different artists, recorded onto a cassette or CD.", "category": "Music", "complexity": "Medium"},
+    {"word": "sampler", "description": "An electronic device that records sounds and allows them to be altered.", "category": "Music", "complexity": "Hard"},
+    {"word": "synthesizer", "description": "An electronic instrument that generates audio signals to create music.", "category": "Music", "complexity": "Medium"}
+  ]
+  

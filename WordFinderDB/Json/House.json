@@ -1,0 +1,20 @@
+[
+    {"word": "door", "description": "A movable entrance to a room or building.", "category": "House", "complexity": "Easy"},
+    {"word": "window", "description": "An opening in a wall to let in light and air, usually filled with glass.", "category": "House", "complexity": "Easy"},
+    {"word": "roof", "description": "The top covering of a building.", "category": "House", "complexity": "Easy"},
+    {"word": "chair", "description": "A piece of furniture for one person to sit on, with a back, legs, and sometimes two arms.", "category": "House", "complexity": "Easy"},
+    {"word": "table", "description": "A piece of furniture with a flat top and one or more legs.", "category": "House", "complexity": "Easy"},
+    {"word": "bedroom", "description": "A room for sleeping in.", "category": "House", "complexity": "Medium"},
+    {"word": "kitchen", "description": "A room where food is cooked and prepared.", "category": "House", "complexity": "Medium"},
+    {"word": "bathroom", "description": "A room with a bath and/or shower and often a toilet.", "category": "House", "complexity": "Medium"},
+    {"word": "basement", "description": "A room below ground level in a house, typically used for storage.", "category": "House", "complexity": "Medium"},
+    {"word": "attic", "description": "A space or room just below the roof of a house.", "category": "House", "complexity": "Medium"},
+    {"word": "balcony", "description": "A platform enclosed by a wall or balustrade on the outside of a building, with access from an upper-floor window or door.", "category": "House", "complexity": "Hard"},
+    {"word": "driveway", "description": "A short private road from a house or garage to the street.", "category": "House", "complexity": "Hard"},
+    {"word": "fireplace", "description": "A place for a domestic fire, especially a grate or hearth at the base of a chimney.", "category": "House", "complexity": "Hard"},
+    {"word": "staircase", "description": "A set of stairs and its surrounding walls or structure.", "category": "House", "complexity": "Hard"},
+    {"word": "corridor", "description": "A long passage in a building from which doors lead into rooms.", "category": "House", "complexity": "Hard"}
+]
+          
+  
+  

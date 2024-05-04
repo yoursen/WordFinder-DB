@@ -1,0 +1,28 @@
+[
+    {"word": "Flute", "description": "A long, thin musical instrument played by blowing across a hole.", "category": "Music Instruments", "complexity": "Easy"},
+    {"word": "Violin", "description": "A small stringed instrument held under the chin and played with a bow.", "category": "Music Instruments", "complexity": "Easy"},
+    {"word": "Drum", "description": "A percussion instrument with a hollow body covered with a membrane.", "category": "Music Instruments", "complexity": "Easy"},
+    {"word": "Piano", "description": "A large keyboard instrument with black and white keys that make sound when hit.", "category": "Music Instruments", "complexity": "Easy"},
+    {"word": "Guitar", "description": "A stringed instrument with a long neck and a body with a flat front.", "category": "Music Instruments", "complexity": "Easy"},
+    {"word": "Trumpet", "description": "A brass instrument with a flared bell and three buttons for changing pitch.", "category": "Music Instruments", "complexity": "Medium"},
+    {"word": "Saxophone", "description": "A brass instrument with a curved body and keys, played with a reed mouthpiece.", "category": "Music Instruments", "complexity": "Medium"},
+    {"word": "Clarinet", "description": "A woodwind instrument with a straight body and a single-reed mouthpiece.", "category": "Music Instruments", "complexity": "Medium"},
+    {"word": "Cello", "description": "A large stringed instrument that rests on the floor and is played with a bow.", "category": "Music Instruments", "complexity": "Medium"},
+    {"word": "Trombone", "description": "A brass instrument with a slide used to change the pitch.", "category": "Music Instruments", "complexity": "Medium"},
+    {"word": "Harp", "description": "A large triangular stringed instrument with strings perpendicular to the soundboard.", "category": "Music Instruments", "complexity": "Hard"},
+    {"word": "Accordion", "description": "A box-shaped instrument with a bellows and keys or buttons, played by pressing the keys and squeezing the bellows.", "category": "Music Instruments", "complexity": "Hard"},
+    {"word": "Bagpipes", "description": "A wind instrument with a bag and pipes, played by blowing air into the bag.", "category": "Music Instruments", "complexity": "Hard"},
+    {"word": "Oboe", "description": "A slender woodwind instrument with a double-reed mouthpiece.", "category": "Music Instruments", "complexity": "Hard"},
+    {"word": "Bassoon", "description": "A large woodwind instrument with a double reed and a distinctive curved bell.", "category": "Music Instruments", "complexity": "Hard"},
+    {"word": "Marimba", "description": "A percussion instrument with wooden bars struck with mallets to produce sound.", "category": "Music Instruments", "complexity": "Hard"},
+    {"word": "Synthesizer", "description": "An electronic instrument that generates sound with oscillators and is played with a keyboard.", "category": "Music Instruments", "complexity": "Hard"},
+    {"word": "Theremin", "description": "An electronic musical instrument controlled without physical contact by the performer.", "category": "Music Instruments", "complexity": "Hard"},
+    {"word": "Mandolin", "description": "A small, lute-like stringed instrument with a rounded body and a neck with frets.", "category": "Music Instruments", "complexity": "Medium"},
+    {"word": "Banjo", "description": "A stringed instrument with a drum-like body and a long neck, played with fingers or a pick.", "category": "Music Instruments", "complexity": "Medium"},
+    {"word": "Ukulele", "description": "A small four-stringed guitar of Hawaiian origin.", "category": "Music Instruments", "complexity": "Easy"},
+    {"word": "Bongo", "description": "A pair of small drums attached to each other and played with the hands.", "category": "Music Instruments", "complexity": "Easy"},
+    {"word": "Conga", "description": "A tall, narrow drum from Cuba, played with the hands.", "category": "Music Instruments", "complexity": "Medium"},
+    {"word": "Timpani", "description": "Large copper pots with drumheads that are tuned to specific pitches.", "category": "Music Instruments", "complexity": "Hard"},
+    {"word": "Xylophone", "description": "A musical instrument with wooden bars of different lengths, played by striking with mallets.", "category": "Music Instruments", "complexity": "Medium"}
+  ]
+  

@@ -1,0 +1,28 @@
+[
+    {"word": "shirt", "description": "A piece of clothing for the upper body with sleeves.", "category": "Clothes", "complexity": "Easy"},
+    {"word": "jeans", "description": "Sturdy pants made of denim fabric, often blue.", "category": "Clothes", "complexity": "Easy"},
+    {"word": "skirt", "description": "A tube or cone-shaped garment hanging from the waist.", "category": "Clothes", "complexity": "Easy"},
+    {"word": "jacket", "description": "A short coat typically extending below the hips.", "category": "Clothes", "complexity": "Easy"},
+    {"word": "sneakers", "description": "Casual shoes with a soft rubber sole.", "category": "Clothes", "complexity": "Easy"},
+    {"word": "blouse", "description": "A loose-fitting upper garment, especially for women.", "category": "Clothes", "complexity": "Medium"},
+    {"word": "cardigan", "description": "A knitted sweater fastening down the front.", "category": "Clothes", "complexity": "Medium"},
+    {"word": "leggings", "description": "Tight-fitting stretchy pants, often worn by women.", "category": "Clothes", "complexity": "Medium"},
+    {"word": "scarf", "description": "A piece of fabric worn around the neck for warmth.", "category": "Clothes", "complexity": "Medium"},
+    {"word": "beret", "description": "A round, flat cap made of soft material.", "category": "Clothes", "complexity": "Medium"},
+    {"word": "trenchcoat", "description": "A long, waterproof coat with a belt.", "category": "Clothes", "complexity": "Hard"},
+    {"word": "culottes", "description": "Wide-legged pants that look like a skirt.", "category": "Clothes", "complexity": "Hard"},
+    {"word": "peacoat", "description": "A heavy, double-breasted coat, often navy-colored.", "category": "Clothes", "complexity": "Hard"},
+    {"word": "camisole", "description": "A loose-fitting undergarment for the upper body.", "category": "Clothes", "complexity": "Hard"},
+    {"word": "bodysuit", "description": "A one-piece form-fitting garment that covers the torso.", "category": "Clothes", "complexity": "Hard"},
+    {"word": "fedora", "description": "A hat with a soft brim and indented crown.", "category": "Clothes", "complexity": "Medium"},
+    {"word": "gloves", "description": "Hand coverings with separate sheaths for each finger.", "category": "Clothes", "complexity": "Easy"},
+    {"word": "poncho", "description": "A blanket-like cloak with an opening for the head.", "category": "Clothes", "complexity": "Medium"},
+    {"word": "stockings", "description": "Close-fitting, elastic garments covering the foot and leg.", "category": "Clothes", "complexity": "Medium"},
+    {"word": "tuxedo", "description": "A formal suit for men, typically black.", "category": "Clothes", "complexity": "Hard"},
+    {"word": "kimono", "description": "A long, wide-sleeved traditional Japanese robe.", "category": "Clothes", "complexity": "Hard"},
+    {"word": "overalls", "description": "Garments covering the body from the chest down, usually with straps.", "category": "Clothes", "complexity": "Medium"},
+    {"word": "turban", "description": "A long cloth wrapped around the head.", "category": "Clothes", "complexity": "Hard"},
+    {"word": "moccasins", "description": "Soft leather slip-on shoes.", "category": "Clothes", "complexity": "Medium"},
+    {"word": "corset", "description": "A tight-fitting undergarment to shape the torso.", "category": "Clothes", "complexity": "Hard"}
+  ]
+  

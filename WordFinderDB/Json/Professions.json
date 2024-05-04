@@ -1,0 +1,28 @@
+[
+    {"word": "Chef", "description": "A person who cooks professionally in a restaurant.", "category": "Professions", "complexity": "Easy"},
+    {"word": "Teacher", "description": "Someone who helps students learn in school.", "category": "Professions", "complexity": "Easy"},
+    {"word": "Doctor", "description": "A medical professional who treats sick people.", "category": "Professions", "complexity": "Easy"},
+    {"word": "Nurse", "description": "A healthcare worker who cares for patients.", "category": "Professions", "complexity": "Easy"},
+    {"word": "Artist", "description": "A person who creates art, like paintings or sculptures.", "category": "Professions", "complexity": "Easy"},
+    {"word": "Engineer", "description": "A person who designs and builds machines or structures.", "category": "Professions", "complexity": "Medium"},
+    {"word": "Architect", "description": "A professional who designs buildings and houses.", "category": "Professions", "complexity": "Medium"},
+    {"word": "Pharmacist", "description": "A specialist who prepares and gives out medicines.", "category": "Professions", "complexity": "Medium"},
+    {"word": "Veterinarian", "description": "A doctor for animals.", "category": "Professions", "complexity": "Medium"},
+    {"word": "Electrician", "description": "A person who installs and repairs electrical systems.", "category": "Professions", "complexity": "Medium"},
+    {"word": "Journalist", "description": "A writer or reporter for newspapers, TV, or radio.", "category": "Professions", "complexity": "Medium"},
+    {"word": "Biologist", "description": "A scientist who studies living things.", "category": "Professions", "complexity": "Hard"},
+    {"word": "Economist", "description": "An expert in the economy and financial matters.", "category": "Professions", "complexity": "Hard"},
+    {"word": "Anthropologist", "description": "A person who studies human societies and cultures.", "category": "Professions", "complexity": "Hard"},
+    {"word": "Sociologist", "description": "A scientist who studies societies and social behavior.", "category": "Professions", "complexity": "Hard"},
+    {"word": "Psychologist", "description": "A professional who studies the mind and behavior.", "category": "Professions", "complexity": "Hard"},
+    {"word": "Astronomer", "description": "A scientist who studies stars and planets.", "category": "Professions", "complexity": "Hard"},
+    {"word": "Geologist", "description": "A scientist who studies Earth's physical structure.", "category": "Professions", "complexity": "Hard"},
+    {"word": "Meteorologist", "description": "A person who studies weather patterns.", "category": "Professions", "complexity": "Hard"},
+    {"word": "Oceanographer", "description": "A scientist who studies the ocean.", "category": "Professions", "complexity": "Hard"},
+    {"word": "Paleontologist", "description": "A scientist who studies fossils and ancient life.", "category": "Professions", "complexity": "Hard"},
+    {"word": "Physicist", "description": "A scientist who studies matter and energy.", "category": "Professions", "complexity": "Hard"},
+    {"word": "Chemist", "description": "A scientist who studies chemicals and their reactions.", "category": "Professions", "complexity": "Hard"},
+    {"word": "Statistician", "description": "A person who works with numbers and data.", "category": "Professions", "complexity": "Hard"},
+    {"word": "Linguist", "description": "A person who studies languages.", "category": "Professions", "complexity": "Hard"}
+  ]
+  

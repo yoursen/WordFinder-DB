@@ -1,0 +1,32 @@
+[
+    {"word": "pea", "description": "A small green seed eaten as a vegetable.", "category": "Vegetables", "complexity": "Easy"},
+    {"word": "kale", "description": "A type of cabbage with green or purple leaves.", "category": "Vegetables", "complexity": "Medium"},
+    {"word": "jicama", "description": "A crunchy, sweet root vegetable, often eaten raw.", "category": "Vegetables", "complexity": "Hard"},
+    {"word": "carrot", "description": "A long orange root vegetable that's crunchy and sweet.", "category": "Vegetables", "complexity": "Easy"},
+    {"word": "spinach", "description": "A leafy green vegetable often used in salads and cooking.", "category": "Vegetables", "complexity": "Easy"},
+    {"word": "broccoli", "description": "A green vegetable with a tree-like structure, rich in vitamins.", "category": "Vegetables", "complexity": "Easy"},
+    {"word": "artichoke", "description": "A thistle-like vegetable with edible flower buds.", "category": "Vegetables", "complexity": "Medium"},
+    {"word": "eggplant", "description": "A purple vegetable with a spongy texture, also called aubergine.", "category": "Vegetables", "complexity": "Medium"},
+    {"word": "zucchini", "description": "A long, green vegetable, also known as courgette.", "category": "Vegetables", "complexity": "Medium"},
+    {"word": "leek", "description": "A vegetable with a long white stalk and green leaves, tastes like onion.", "category": "Vegetables", "complexity": "Medium"},
+    {"word": "radish", "description": "A small red or white vegetable with a peppery taste.", "category": "Vegetables", "complexity": "Easy"},
+    {"word": "celery", "description": "A crunchy green vegetable often used in soups and salads.", "category": "Vegetables", "complexity": "Easy"},
+    {"word": "beetroot", "description": "A dark red root vegetable with a sweet, earthy flavor.", "category": "Vegetables", "complexity": "Medium"},
+    {"word": "asparagus", "description": "A green vegetable with long stalks, eaten cooked or raw.", "category": "Vegetables", "complexity": "Medium"},
+    {"word": "cucumber", "description": "A long, green vegetable with a mild, refreshing taste.", "category": "Vegetables", "complexity": "Easy"},
+    {"word": "pumpkin", "description": "A large orange vegetable often used in pies and soups.", "category": "Vegetables", "complexity": "Easy"},
+    {"word": "squash", "description": "A vegetable that comes in many shapes and sizes, with a mild flavor.", "category": "Vegetables", "complexity": "Medium"},
+    {"word": "turnip", "description": "A round, white root vegetable with a slightly bitter taste.", "category": "Vegetables", "complexity": "Medium"},
+    {"word": "chard", "description": "A leafy green vegetable with colorful stems, similar to beet greens.", "category": "Vegetables", "complexity": "Medium"},
+    {"word": "okra", "description": "A green pod vegetable, also known as 'lady's fingers', used in stews.", "category": "Vegetables", "complexity": "Medium"},
+    {"word": "parsnip", "description": "A root vegetable similar to carrot, but white and sweeter.", "category": "Vegetables", "complexity": "Medium"},
+    {"word": "cauliflower", "description": "A white, flower-like vegetable, often eaten steamed or raw.", "category": "Vegetables", "complexity": "Easy"},
+    {"word": "lettuce", "description": "A leafy green vegetable, commonly used in salads.", "category": "Vegetables", "complexity": "Easy"},
+    {"word": "endive", "description": "A bitter leafy vegetable, often used in salads and as a garnish.", "category": "Vegetables", "complexity": "Hard"},
+    {"word": "fennel", "description": "A crunchy vegetable with a licorice-like flavor, used in salads and cooking.", "category": "Vegetables", "complexity": "Hard"},
+    {"word": "kohlrabi", "description": "A round, green vegetable that tastes like a mild, sweet turnip.", "category": "Vegetables", "complexity": "Hard"},
+    {"word": "rutabaga", "description": "A large, yellowish root vegetable with a sweet and slightly bitter taste.", "category": "Vegetables", "complexity": "Hard"},
+    {"word": "daikon", "description": "A long white radish with a mild flavor, used in Asian cuisine.", "category": "Vegetables", "complexity": "Hard"}
+  ]
+  
+  

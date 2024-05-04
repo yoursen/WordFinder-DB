@@ -1,0 +1,27 @@
+[
+    {"word": "apple", "description": "A sweet, edible fruit produced by an apple tree.", "category": "Fruits", "complexity": "Easy"},
+    {"word": "banana", "description": "A long, curved fruit with a thick peel and soft sweet flesh.", "category": "Fruits", "complexity": "Easy"},
+    {"word": "cherry", "description": "A small, round fruit with a pit, often bright red or purple.", "category": "Fruits", "complexity": "Easy"},
+    {"word": "date", "description": "A sweet, dark fruit often found in dried form.", "category": "Fruits", "complexity": "Medium"},
+    {"word": "elderberry", "description": "A dark purple berry used in jams and syrups.", "category": "Fruits", "complexity": "Medium"},
+    {"word": "fig", "description": "A soft fruit with thin skin that can be eaten when ripe.", "category": "Fruits", "complexity": "Medium"},
+    {"word": "grapefruit", "description": "A large, tart fruit with yellow-orange skin.", "category": "Fruits", "complexity": "Hard"},
+    {"word": "honeydew", "description": "A sweet melon with pale green flesh.", "category": "Fruits", "complexity": "Hard"},
+    {"word": "jackfruit", "description": "A large, tropical fruit with yellow, sweet flesh.", "category": "Fruits", "complexity": "Hard"},
+    {"word": "kiwi", "description": "A small fruit with brown skin and bright green flesh.", "category": "Fruits", "complexity": "Easy"},
+    {"word": "lemon", "description": "A yellow, sour citrus fruit used for its juice and zest.", "category": "Fruits", "complexity": "Easy"},
+    {"word": "mango", "description": "A tropical stone fruit with juicy, sweet orange flesh.", "category": "Fruits", "complexity": "Easy"},
+    {"word": "nectarine", "description": "A smooth-skinned peach-like fruit with firm flesh.", "category": "Fruits", "complexity": "Medium"},
+    {"word": "orange", "description": "A round, juicy citrus fruit with a tough skin.", "category": "Fruits", "complexity": "Medium"},
+    {"word": "papaya", "description": "A tropical fruit with orange flesh and black seeds.", "category": "Fruits", "complexity": "Medium"},
+    {"word": "quince", "description": "A yellow fruit that is often cooked before eating.", "category": "Fruits", "complexity": "Hard"},
+    {"word": "raspberry", "description": "A small, red, sweet berry with a hollow core.", "category": "Fruits", "complexity": "Hard"},
+    {"word": "strawberry", "description": "A red, heart-shaped berry with tiny seeds on the outside.", "category": "Fruits", "complexity": "Hard"},
+    {"word": "tangerine", "description": "A small, sweet citrus fruit with a loose skin.", "category": "Fruits", "complexity": "Easy"},
+    {"word": "ugli fruit", "description": "A large, juicy citrus fruit with a rough, wrinkled skin.", "category": "Fruits", "complexity": "Medium"},
+    {"word": "watermelon", "description": "A large, green fruit with sweet, juicy, red flesh inside.", "category": "Fruits", "complexity": "Easy"},
+    {"word": "xigua", "description": "A type of watermelon popular in Africa with sweet, red flesh.", "category": "Fruits", "complexity": "Medium"},
+    {"word": "yuzu", "description": "An East Asian citrus fruit used for its aromatic rind.", "category": "Fruits", "complexity": "Hard"}
+  ]
+  
+  

@@ -1,0 +1,23 @@
+[
+    {"word": "Spoon", "description": "A tool for eating or cooking, usually made of metal or plastic.", "category": "Kitchen", "complexity": "Easy"},
+    {"word": "Oven", "description": "A kitchen appliance used for baking or roasting food.", "category": "Kitchen", "complexity": "Easy"},
+    {"word": "Mixer", "description": "A machine that combines ingredients together.", "category": "Kitchen", "complexity": "Medium"},
+    {"word": "Colander", "description": "A bowl with holes to drain water from food like pasta.", "category": "Kitchen", "complexity": "Medium"},
+    {"word": "Spatula", "description": "A flat tool used for flipping or spreading food.", "category": "Kitchen", "complexity": "Easy"},
+    {"word": "Grater", "description": "A device with sharp surfaces to shred food into small pieces.", "category": "Kitchen", "complexity": "Medium"},
+    {"word": "Peeler", "description": "A tool to remove the outer layer of fruits and vegetables.", "category": "Kitchen", "complexity": "Easy"},
+    {"word": "Blender", "description": "An electric machine that mixes food and liquids into a smooth texture.", "category": "Kitchen", "complexity": "Medium"},
+    {"word": "Whisk", "description": "A tool for stirring or beating food items quickly.", "category": "Kitchen", "complexity": "Easy"},
+    {"word": "Skillet", "description": "A pan used for frying, searing, and browning foods.", "category": "Kitchen", "complexity": "Medium"},
+    {"word": "Tongs", "description": "A tool used to grab and lift food without touching it.", "category": "Kitchen", "complexity": "Easy"},
+    {"word": "Chopper", "description": "A device for cutting food into smaller pieces quickly.", "category": "Kitchen", "complexity": "Medium"},
+    {"word": "Sieve", "description": "A utensil with a mesh used to separate finer particles from coarser ones.", "category": "Kitchen", "complexity": "Medium"},
+    {"word": "Zester", "description": "A tool for removing the outer part of citrus fruit skin.", "category": "Kitchen", "complexity": "Hard"},
+    {"word": "Mandoline", "description": "A slicer with adjustable blades for cutting vegetables and fruits.", "category": "Kitchen", "complexity": "Hard"},
+    {"word": "Corkscrew", "description": "A tool to pull corks from wine bottles.", "category": "Kitchen", "complexity": "Medium"},
+    {"word": "Mezzaluna", "description": "A curved knife used for chopping herbs or vegetables.", "category": "Kitchen", "complexity": "Hard"},
+    {"word": "Ricer", "description": "A tool for creating finely mashed potatoes or other soft foods.", "category": "Kitchen", "complexity": "Hard"},
+    {"word": "Steamer", "description": "A device for cooking food with steam.", "category": "Kitchen", "complexity": "Medium"},
+    {"word": "Griddle", "description": "A flat surface for cooking pancakes, eggs, and other foods.", "category": "Kitchen", "complexity": "Medium"}
+  ]
+  

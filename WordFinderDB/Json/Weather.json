@@ -1,0 +1,28 @@
+[
+    {"word": "Sun", "description": "The star at the center of our solar system.", "category": "Weather", "complexity": "Easy"},
+    {"word": "Rain", "description": "Water droplets falling from clouds in the sky.", "category": "Weather", "complexity": "Easy"},
+    {"word": "Fog", "description": "A thick cloud of tiny water droplets near the ground.", "category": "Weather", "complexity": "Easy"},
+    {"word": "Snow", "description": "Soft white flakes of frozen water that fall from the sky.", "category": "Weather", "complexity": "Easy"},
+    {"word": "Wind", "description": "Air in motion outdoors.", "category": "Weather", "complexity": "Easy"},
+    {"word": "Hail", "description": "Balls or irregular lumps of ice that fall from clouds.", "category": "Weather", "complexity": "Medium"},
+    {"word": "Sleet", "description": "A form of precipitation consisting of ice pellets.", "category": "Weather", "complexity": "Medium"},
+    {"word": "Cloud", "description": "A visible mass of condensed water vapor floating in the atmosphere.", "category": "Weather", "complexity": "Easy"},
+    {"word": "Drizzle", "description": "Light rain falling in very fine drops.", "category": "Weather", "complexity": "Medium"},
+    {"word": "Breeze", "description": "A gentle wind.", "category": "Weather", "complexity": "Easy"},
+    {"word": "Humidity", "description": "The amount of water vapor in the air.", "category": "Weather", "complexity": "Medium"},
+    {"word": "Dew", "description": "Tiny drops of water that form on cool surfaces at night.", "category": "Weather", "complexity": "Medium"},
+    {"word": "Frost", "description": "A thin layer of ice on a solid surface, formed from water vapor.", "category": "Weather", "complexity": "Medium"},
+    {"word": "Cyclone", "description": "A large scale air mass that rotates around a strong center of low pressure.", "category": "Weather", "complexity": "Hard"},
+    {"word": "Typhoon", "description": "A tropical storm in the region of the Indian or western Pacific oceans.", "category": "Weather", "complexity": "Hard"},
+    {"word": "Hurricane", "description": "A violent storm with very strong winds, especially in the western Atlantic Ocean.", "category": "Weather", "complexity": "Hard"},
+    {"word": "Tornado", "description": "A mobile, destructive vortex of violently rotating winds.", "category": "Weather", "complexity": "Hard"},
+    {"word": "Blizzard", "description": "A severe snowstorm with high winds and low visibility.", "category": "Weather", "complexity": "Hard"},
+    {"word": "Monsoon", "description": "A seasonal prevailing wind in the region of South and Southeast Asia.", "category": "Weather", "complexity": "Medium"},
+    {"word": "Gale", "description": "A very strong wind.", "category": "Weather", "complexity": "Medium"},
+    {"word": "Drought", "description": "A long period without rain.", "category": "Weather", "complexity": "Medium"},
+    {"word": "Heatwave", "description": "A prolonged period of excessively hot weather.", "category": "Weather", "complexity": "Medium"},
+    {"word": "Meteorology", "description": "The science that deals with the phenomena of the atmosphere, especially weather and weather conditions.", "category": "Weather", "complexity": "Hard"},
+    {"word": "Barometer", "description": "An instrument measuring atmospheric pressure.", "category": "Weather", "complexity": "Hard"},
+    {"word": "Anemometer", "description": "A device used for measuring wind speed.", "category": "Weather", "complexity": "Hard"}
+  ]
+  

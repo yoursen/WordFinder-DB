@@ -1,0 +1,28 @@
+[
+    {"word": "paint", "description": "A colored substance spread over surfaces to decorate them.", "category": "Art", "complexity": "Easy"},
+    {"word": "brush", "description": "A tool with bristles used to apply paint on a canvas.", "category": "Art", "complexity": "Easy"},
+    {"word": "sketch", "description": "A rough drawing made quickly without much detail.", "category": "Art", "complexity": "Easy"},
+    {"word": "clay", "description": "A soft, sticky earth material used to make pottery and sculptures.", "category": "Art", "complexity": "Easy"},
+    {"word": "mural", "description": "A large painting applied directly to a wall or ceiling.", "category": "Art", "complexity": "Medium"},
+    {"word": "palette", "description": "A board artists use to mix their paints on.", "category": "Art", "complexity": "Medium"},
+    {"word": "collage", "description": "Art made by sticking various materials on a surface.", "category": "Art", "complexity": "Medium"},
+    {"word": "easel", "description": "A stand for holding a painter's canvas while working.", "category": "Art", "complexity": "Medium"},
+    {"word": "fresco", "description": "A technique where water-based paints are applied on wet plaster.", "category": "Art", "complexity": "Hard"},
+    {"word": "gesso", "description": "A white paint mixture used as a base for painting.", "category": "Art", "complexity": "Hard"},
+    {"word": "chiaroscuro", "description": "The use of strong contrasts between light and dark in art.", "category": "Art", "complexity": "Hard"},
+    {"word": "sfumato", "description": "A painting technique for softening transitions between colors.", "category": "Art", "complexity": "Hard"},
+    {"word": "impasto", "description": "A technique where paint is laid thickly on a surface.", "category": "Art", "complexity": "Hard"},
+    {"word": "foreshortening", "description": "A technique to represent an object extending back in space.", "category": "Art", "complexity": "Hard"},
+    {"word": "hatching", "description": "A shading technique using closely spaced parallel lines.", "category": "Art", "complexity": "Medium"},
+    {"word": "stippling", "description": "A technique of using small dots to simulate varying shades.", "category": "Art", "complexity": "Medium"},
+    {"word": "maquette", "description": "A small model for a sculpture or architectural project.", "category": "Art", "complexity": "Hard"},
+    {"word": "bas-relief", "description": "A sculpture technique where the figures are raised slightly.", "category": "Art", "complexity": "Hard"},
+    {"word": "glaze", "description": "A thin, smooth layer of paint or vitreous substance.", "category": "Art", "complexity": "Medium"},
+    {"word": "underpainting", "description": "An initial layer of paint applied to a ground.", "category": "Art", "complexity": "Hard"},
+    {"word": "graffiti", "description": "Drawings or writing painted on walls, often in public view.", "category": "Art", "complexity": "Easy"},
+    {"word": "montage", "description": "A picture made by combining several different images.", "category": "Art", "complexity": "Medium"},
+    {"word": "pointillism", "description": "A technique using tiny dots of color to create an image.", "category": "Art", "complexity": "Hard"},
+    {"word": "silhouette", "description": "An outline of a figure filled in with a solid color.", "category": "Art", "complexity": "Easy"},
+    {"word": "tapestry", "description": "A thick textile fabric with pictures or designs formed by weaving.", "category": "Art", "complexity": "Medium"}
+  ]
+  

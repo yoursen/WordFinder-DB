@@ -1,0 +1,28 @@
+[
+    {"word": "novel", "description": "A long fictional story, often with a complex plot and many characters.", "category": "Books", "complexity": "Easy"},
+    {"word": "genre", "description": "A style or category of art, music, or literature.", "category": "Books", "complexity": "Easy"},
+    {"word": "author", "description": "A person who writes books or stories.", "category": "Books", "complexity": "Easy"},
+    {"word": "narrator", "description": "The voice that tells the story in a book.", "category": "Books", "complexity": "Medium"},
+    {"word": "protagonist", "description": "The main character in a story, often a hero or heroine.", "category": "Books", "complexity": "Medium"},
+    {"word": "antagonist", "description": "A character who opposes the main character, creating conflict.", "category": "Books", "complexity": "Medium"},
+    {"word": "fiction", "description": "Stories that are imaginary or not true.", "category": "Books", "complexity": "Easy"},
+    {"word": "biography", "description": "A detailed description of a person's life.", "category": "Books", "complexity": "Medium"},
+    {"word": "climax", "description": "The most exciting or important part of a story.", "category": "Books", "complexity": "Medium"},
+    {"word": "epilogue", "description": "A short section at the end of a book that concludes the story.", "category": "Books", "complexity": "Hard"},
+    {"word": "foreshadowing", "description": "Hints or clues about what will happen later in a story.", "category": "Books", "complexity": "Hard"},
+    {"word": "metaphor", "description": "A figure of speech comparing two unlike things without using 'like' or 'as'.", "category": "Books", "complexity": "Medium"},
+    {"word": "satire", "description": "A way of criticizing people or ideas in a humorous way.", "category": "Books", "complexity": "Hard"},
+    {"word": "synopsis", "description": "A brief summary of the main points of a story or book.", "category": "Books", "complexity": "Medium"},
+    {"word": "trilogy", "description": "A series of three books, movies, etc., that are closely related.", "category": "Books", "complexity": "Medium"},
+    {"word": "villain", "description": "A wicked or evil character in a story.", "category": "Books", "complexity": "Easy"},
+    {"word": "allegory", "description": "A story with characters and events that symbolize ideas about human life.", "category": "Books", "complexity": "Hard"},
+    {"word": "chronicle", "description": "A factual written account of important or historical events.", "category": "Books", "complexity": "Medium"},
+    {"word": "dialogue", "description": "The conversations between characters in a book, movie, or play.", "category": "Books", "complexity": "Easy"},
+    {"word": "epic", "description": "A long poem or story about heroic deeds.", "category": "Books", "complexity": "Medium"},
+    {"word": "novelette", "description": "A short novel or long short story.", "category": "Books", "complexity": "Hard"},
+    {"word": "parody", "description": "A humorous imitation of a serious piece of literature or writing.", "category": "Books", "complexity": "Hard"},
+    {"word": "sequel", "description": "A book, movie, etc., that continues the story of a previous work.", "category": "Books", "complexity": "Medium"},
+    {"word": "theme", "description": "The main subject that is being discussed or described in a piece of writing.", "category": "Books", "complexity": "Easy"},
+    {"word": "utopia", "description": "An imagined place in which everything is perfect.", "category": "Books", "complexity": "Hard"}
+  ]
+  
