@@ -11,6 +11,7 @@ class Program
         using (var db = new WordsDbContext())
         {
             db.Database.EnsureCreated();
+            db.GameWords.RemoveRange(db.GameWords.ToArray());
 
             foreach (var category in categories)
             {
@@ -45,16 +46,23 @@ class Program
 
     private static ComplexityType GetComplexity(string complexity) => complexity switch
     {
-        nameof(ComplexityType.Difficult) => ComplexityType.Difficult,
-        nameof(ComplexityType.Moderate) => ComplexityType.Moderate,
+        nameof(ComplexityType.Hard) => ComplexityType.Hard,
+        nameof(ComplexityType.Medium) => ComplexityType.Medium,
         nameof(ComplexityType.Easy) => ComplexityType.Easy,
         _ => throw new ArgumentException()
     };
 
     private static WordJson[] GetWords()
     {
-        var context = File.ReadAllText("Json/Words.json");
-        var words = JsonSerializer.Deserialize<WordJson[]>(context);
-        return words;
+        List<WordJson> words = new();
+        var path = Directory.GetCurrentDirectory();
+        foreach (var f in Directory.EnumerateFiles(path + "/Json", "*.json"))
+        {
+            var context = File.ReadAllText(f);
+            var jsonWords = JsonSerializer.Deserialize<WordJson[]>(context);
+            words.AddRange(jsonWords);
+            Console.Write($"Read {jsonWords.Count()} words from file {Path.GetFileName(f)}");
+        }
+        return words.ToArray();
     }
 }
