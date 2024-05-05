@@ -1,0 +1,23 @@
+[
+    {"word": "Reading", "description": "The action of looking at written words and understanding them.", "category": "Hobbies", "complexity": "Easy"},
+    {"word": "Knitting", "description": "Creating fabric by interlocking loops of yarn with needles.", "category": "Hobbies", "complexity": "Medium"},
+    {"word": "Origami", "description": "The Japanese art of folding paper into decorative shapes and figures.", "category": "Hobbies", "complexity": "Medium"},
+    {"word": "Gardening", "description": "The practice of growing and cultivating plants.", "category": "Hobbies", "complexity": "Easy"},
+    {"word": "Astronomy", "description": "The study of celestial bodies like stars, planets, and galaxies.", "category": "Hobbies", "complexity": "Hard"},
+    {"word": "Baking", "description": "Cooking food by dry heat without direct exposure to a flame.", "category": "Hobbies", "complexity": "Easy"},
+    {"word": "Cycling", "description": "The activity of riding a bicycle.", "category": "Hobbies", "complexity": "Easy"},
+    {"word": "Photography", "description": "The art of taking and processing photographs.", "category": "Hobbies", "complexity": "Medium"},
+    {"word": "Calligraphy", "description": "The art of beautiful handwriting.", "category": "Hobbies", "complexity": "Medium"},
+    {"word": "Chess", "description": "A board game of strategic skill for two players.", "category": "Hobbies", "complexity": "Hard"},
+    {"word": "Scrapbooking", "description": "The hobby of making decorative albums to preserve personal and family history.", "category": "Hobbies", "complexity": "Medium"},
+    {"word": "Pottery", "description": "The art of making pots, dishes, and other articles out of clay.", "category": "Hobbies", "complexity": "Medium"},
+    {"word": "Dancing", "description": "Moving rhythmically to music, typically following a set sequence of steps.", "category": "Hobbies", "complexity": "Easy"},
+    {"word": "Archery", "description": "The sport of shooting arrows with a bow.", "category": "Hobbies", "complexity": "Medium"},
+    {"word": "Geocaching", "description": "An outdoor recreational activity where participants use a GPS to hide and seek containers.", "category": "Hobbies", "complexity": "Hard"},
+    {"word": "Blogging", "description": "Writing and publishing content on a web page or blog.", "category": "Hobbies", "complexity": "Medium"},
+    {"word": "Painting", "description": "The practice of applying pigment to a surface to create an artwork.", "category": "Hobbies", "complexity": "Easy"},
+    {"word": "Magic", "description": "The art of performing tricks that entertain people.", "category": "Hobbies", "complexity": "Hard"},
+    {"word": "Birdwatching", "description": "Observing birds in their natural environment as a hobby.", "category": "Hobbies", "complexity": "Medium"},
+    {"word": "Fishing", "description": "The activity of catching fish, either for food or as a sport.", "category": "Hobbies", "complexity": "Easy"}
+  ]
+  

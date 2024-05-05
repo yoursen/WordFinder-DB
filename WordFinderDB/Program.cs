@@ -8,6 +8,11 @@ class Program
     {
         var words = GetWords();
         var categories = words.Select(w => w.category).Distinct().ToList();
+
+        var dbFile = Directory.GetCurrentDirectory() + @"/DB/Words.db";
+        if (File.Exists(dbFile))
+            File.Delete(dbFile);
+
         using (var db = new WordsDbContext())
         {
             db.Database.EnsureCreated();

@@ -1,0 +1,38 @@
+[
+    {"word": "leaf", "description": "A flat, green part of a plant that grows from the stem or branch.", "category": "Nature", "complexity": "Easy"},
+    {"word": "bark", "description": "The tough protective outer covering of the trunk, branches, and twigs of a tree.", "category": "Nature", "complexity": "Easy"},
+    {"word": "stream", "description": "A small, narrow river.", "category": "Nature", "complexity": "Easy"},
+    {"word": "dew", "description": "Tiny drops of water that form on cool surfaces at night.", "category": "Nature", "complexity": "Easy"},
+    {"word": "petal", "description": "A colored part of a flower that surrounds the reproductive parts.", "category": "Nature", "complexity": "Easy"},
+    {"word": "soil", "description": "The top layer of the earth in which plants grow.", "category": "Nature", "complexity": "Easy"},
+    {"word": "moss", "description": "A small green plant that grows in a carpet-like layer on wet ground.", "category": "Nature", "complexity": "Medium"},
+    {"word": "pollen", "description": "A fine powdery substance released by flowers to fertilize other flowers.", "category": "Nature", "complexity": "Medium"},
+    {"word": "fossil", "description": "The remains of an ancient organism preserved in rock.", "category": "Nature", "complexity": "Medium"},
+    {"word": "habitat", "description": "The natural environment where a plant or animal lives.", "category": "Nature", "complexity": "Medium"},
+    {"word": "nectar", "description": "A sweet liquid produced by flowers to attract pollinating insects and birds.", "category": "Nature", "complexity": "Medium"},
+    {"word": "tundra", "description": "A cold, treeless area; it is the coldest biome.", "category": "Nature", "complexity": "Medium"},
+    {"word": "estuary", "description": "The tidal mouth of a large river, where the tide meets the stream.", "category": "Nature", "complexity": "Hard"},
+    {"word": "photosynthesis", "description": "The process by which green plants use sunlight to synthesize food from carbon dioxide and water.", "category": "Nature", "complexity": "Hard"},
+    {"word": "bioluminescence", "description": "The production of light by living organisms.", "category": "Nature", "complexity": "Hard"},
+    {"word": "phytoplankton", "description": "Microscopic plants that live in watery environments, both salty and fresh.", "category": "Nature", "complexity": "Hard"},
+    {"word": "xerophyte", "description": "A plant adapted to grow in dry conditions.", "category": "Nature", "complexity": "Hard"},
+    {"word": "zygomycetes", "description": "A class of fungi that form a zygospore during sexual reproduction.", "category": "Nature", "complexity": "Hard"},
+    {"word": "canyon", "description": "A deep gorge, typically one with a river flowing through it.", "category": "Nature", "complexity": "Easy"},
+    {"word": "delta", "description": "A landform at the mouth of a river created by sediment deposits.", "category": "Nature", "complexity": "Medium"},
+    {"word": "fjord", "description": "A long, narrow, deep inlet of the sea between high cliffs.", "category": "Nature", "complexity": "Medium"},
+    {"word": "gale", "description": "A very strong wind.", "category": "Nature", "complexity": "Medium"},
+    {"word": "hail", "description": "Pellets of frozen rain that fall in showers from cumulonimbus clouds.", "category": "Nature", "complexity": "Medium"},
+    {"word": "island", "description": "A piece of land surrounded by water.", "category": "Nature", "complexity": "Easy"},
+    {"word": "jungle", "description": "A dense, tropical forest with a heavy rainfall.", "category": "Nature", "complexity": "Medium"},
+    {"word": "kelp", "description": "Large brown seaweeds that grow in underwater forests in shallow oceans.", "category": "Nature", "complexity": "Medium"},
+    {"word": "lagoon", "description": "A shallow body of water separated from a larger sea by barrier islands or reefs.", "category": "Nature", "complexity": "Medium"},
+    {"word": "marsh", "description": "An area of low-lying land that is flooded in wet seasons or at high tide, and typically remains waterlogged at all times.", "category": "Nature", "complexity": "Medium"},
+    {"word": "nectar", "description": "A sweet liquid secreted by flowers to attract pollinating insects and birds.", "category": "Nature", "complexity": "Medium"},
+    {"word": "oasis", "description": "A fertile spot in a desert where water is found.", "category": "Nature", "complexity": "Medium"},
+    {"word": "prairie", "description": "A large open area of grassland, especially in the Mississippi River valley.", "category": "Nature", "complexity": "Easy"},
+    {"word": "quartz", "description": "A hard, crystalline mineral composed of silicon and oxygen atoms.", "category": "Nature", "complexity": "Medium"},
+    {"word": "reef", "description": "A ridge of jagged rock, coral, or sand just above or below the surface of the sea.", "category": "Nature", "complexity": "Medium"}
+  ]
+  
+
+  

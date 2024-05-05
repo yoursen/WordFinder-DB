@@ -8,6 +8,27 @@
     {"word": "essay", "description": "A short piece of writing on a particular subject.", "category": "School", "complexity": "Medium"},
     {"word": "laboratory", "description": "A room equipped for scientific experiments, research, or teaching.", "category": "School", "complexity": "Medium"},
     {"word": "geometry", "description": "The branch of mathematics concerned with the properties and relations of points, lines, surfaces, and solids.", "category": "School", "complexity": "Hard"},
-    {"word": "thesis", "description": "A long essay or dissertation involving personal research, written by a candidate for a degree.", "category": "School", "complexity": "Hard"}
+    {"word": "thesis", "description": "A long essay or dissertation involving personal research, written by a candidate for a degree.", "category": "School", "complexity": "Hard"},
+    {"word": "Math", "description": "The study of numbers and shapes.", "category": "School Subjects", "complexity": "Easy"},
+    {"word": "Biology", "description": "The science of living organisms.", "category": "School Subjects", "complexity": "Medium"},
+    {"word": "Algebra", "description": "A branch of mathematics dealing with symbols and the rules for manipulating those symbols.", "category": "School Subjects", "complexity": "Medium"},
+    {"word": "Chemistry", "description": "The science of substances and how they change or combine.", "category": "School Subjects", "complexity": "Medium"},
+    {"word": "Physics", "description": "The study of matter, energy, and the forces that act on them.", "category": "School Subjects", "complexity": "Hard"},
+    {"word": "Geography", "description": "The study of Earth's landscapes, environments, and the relationships between people and their environments.", "category": "School Subjects", "complexity": "Easy"},
+    {"word": "History", "description": "The study of past events.", "category": "School Subjects", "complexity": "Easy"},
+    {"word": "Literature", "description": "The study of written works, such as poems, plays, and novels.", "category": "School Subjects", "complexity": "Medium"},
+    {"word": "Art", "description": "The expression of creative skill through visuals.", "category": "School Subjects", "complexity": "Easy"},
+    {"word": "Calculus", "description": "A branch of mathematics that studies continuous change.", "category": "School Subjects", "complexity": "Hard"},
+    {"word": "Economics", "description": "The study of how societies use resources to produce goods and services.", "category": "School Subjects", "complexity": "Medium"},
+    {"word": "Sociology", "description": "The study of the development, structure, and functioning of human society.", "category": "School Subjects", "complexity": "Medium"},
+    {"word": "Psychology", "description": "The science of behavior and mind.", "category": "School Subjects", "complexity": "Medium"},
+    {"word": "Philosophy", "description": "The study of the fundamental nature of knowledge, reality, and existence.", "category": "School Subjects", "complexity": "Hard"},
+    {"word": "Anatomy", "description": "The study of the structure of living things.", "category": "School Subjects", "complexity": "Medium"},
+    {"word": "Astronomy", "description": "The study of celestial objects and phenomena.", "category": "School Subjects", "complexity": "Hard"},
+    {"word": "Statistics", "description": "The science of collecting, analyzing, presenting, and interpreting data.", "category": "School Subjects", "complexity": "Hard"},
+    {"word": "Civics", "description": "The study of the rights and duties of citizenship.", "category": "School Subjects", "complexity": "Easy"},
+    {"word": "Geology", "description": "The science of the Earth's physical structure and substance.", "category": "School Subjects", "complexity": "Medium"},
+    {"word": "Meteorology", "description": "The science of the atmosphere and weather patterns.", "category": "School Subjects", "complexity": "Hard"}
   ]
+  
   
