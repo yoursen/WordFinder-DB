@@ -5,6 +5,7 @@ public class GameWord
     public string Word { get; set; }
     public string Description { get; set; }
     public bool IsPlayed { get; set; }
+    public bool IsAnswered { get; set; }
     public GameWordCategory Category { get; set; }
     public ComplexityType Complexity { get; set; }
 }
