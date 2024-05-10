@@ -1,4 +1,5 @@
 ﻿using System.Text.Json;
+using System.Text.RegularExpressions;
 using DB;
 using Json;
 
@@ -29,8 +30,7 @@ class Program
 
             foreach (var word in words)
             {
-                if (word.word.Contains(" ")
-                 || word.word.Contains("'")
+                if (Regex.IsMatch(word.word, @"[^a-zA-Z]")
                  || db.GameWords.Any(w => w.Word == word.word))
                 {
                     continue;
