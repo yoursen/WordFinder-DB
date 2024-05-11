@@ -1,8 +1,8 @@
 [
-    {"word": "Paris", "description": "The capital of France, known for the Eiffel Tower.", "category": "Cities", "complexity": "Easy"},
+    {"word": "Paris", "isPro" : "false", "description": "The capital of France, known for the Eiffel Tower.", "category": "Cities", "complexity": "Easy"},
     {"word": "Tokyo", "description": "The bustling capital of Japan, famous for anime and technology.", "category": "Cities", "complexity": "Easy"},
     {"word": "Cairo", "description": "The capital of Egypt, home to the ancient pyramids.", "category": "Cities", "complexity": "Easy"},
-    {"word": "London", "description": "The capital of the United Kingdom, known for Big Ben.", "category": "Cities", "complexity": "Easy"},
+    {"word": "London", "isPro" : "false", "description": "The capital of the United Kingdom, known for Big Ben.", "category": "Cities", "complexity": "Easy"},
     {"word": "Dubai", "description": "A city in the UAE known for luxury shopping and ultramodern architecture.", "category": "Cities", "complexity": "Medium"},
     {"word": "Venice", "description": "An Italian city famous for its canals and gondolas.", "category": "Cities", "complexity": "Medium"},
     {"word": "Mumbai", "description": "A densely populated city on India’s west coast, a financial center.", "category": "Cities", "complexity": "Medium"},
@@ -16,7 +16,7 @@
     {"word": "Nairobi", "description": "The capital of Kenya, known for its national park and elephant orphanage.", "category": "Cities", "complexity": "Hard"},
     {"word": "Oslo", "description": "The capital of Norway, known for its green spaces and museums.", "category": "Cities", "complexity": "Medium"},
     {"word": "Bangkok", "description": "The capital of Thailand, famous for ornate shrines and vibrant street life.", "category": "Cities", "complexity": "Medium"},
-    {"word": "Vienna", "description": "The capital of Austria, known for its classical music heritage.", "category": "Cities", "complexity": "Medium"},
+    {"word": "Vienna", "isPro" : "false", "description": "The capital of Austria, known for its classical music heritage.", "category": "Cities", "complexity": "Medium"},
     {"word": "Kathmandu", "description": "The capital city of Nepal, gateway to the Himalayas and Mount Everest.", "category": "Cities", "complexity": "Hard"},
     {"word": "Lviv", "description": "A city in western Ukraine, known for its historic old town and architecture.", "category": "Cities", "complexity": "Medium"}
   ]

@@ -1,5 +1,5 @@
 [
-    {"word": "Ballet", "description": "A classical dance form with precise movements and formal gestures.", "category": "Dance Genres", "complexity": "Easy"},
+    {"word": "Ballet", "isPro" : "false", "description": "A classical dance form with precise movements and formal gestures.", "category": "Dance Genres", "complexity": "Easy"},
     {"word": "Tap", "description": "A dance style where you make rhythmic sounds with your shoes.", "category": "Dance Genres", "complexity": "Easy"},
     {"word": "Jazz", "description": "A lively dance style that involves kicks and turns to the beat of the music.", "category": "Dance Genres", "complexity": "Medium"},
     {"word": "Hip-Hop", "description": "A street dance style performed to hip-hop music with a free, energetic vibe.", "category": "Dance Genres", "complexity": "Medium"},
@@ -9,9 +9,9 @@
     {"word": "Contemporary", "description": "A fluid dance style that combines elements of several dance genres.", "category": "Dance Genres", "complexity": "Hard"},
     {"word": "Flamenco", "description": "A Spanish dance with forceful footwork, clapping, and vibrant costumes.", "category": "Dance Genres", "complexity": "Hard"},
     {"word": "Bharatanatyam", "description": "An ancient Indian dance known for its fixed upper torso, bent legs, and intricate gestures.", "category": "Dance Genres", "complexity": "Hard"},
-    {"word": "Breakdance", "description": "An athletic style of street dance with spins and acrobatic moves.", "category": "Dance Genres", "complexity": "Medium"},
+    {"word": "Breakdance", "isPro" : "false", "description": "An athletic style of street dance with spins and acrobatic moves.", "category": "Dance Genres", "complexity": "Medium"},
     {"word": "Ballroom", "description": "Elegant partner dances with structured steps, like the waltz and foxtrot.", "category": "Dance Genres", "complexity": "Medium"},
-    {"word": "Swing", "description": "A group of dances that developed with swing jazz music in the 1920s-1940s.", "category": "Dance Genres", "complexity": "Medium"},
+    {"word": "Swing", "isPro" : "false", "description": "A group of dances that developed with swing jazz music in the 1920s-1940s.", "category": "Dance Genres", "complexity": "Medium"},
     {"word": "Krumping", "description": "A high-energy dance with expressive, exaggerated, and fast movements.", "category": "Dance Genres", "complexity": "Hard"},
     {"word": "Lindy Hop", "description": "A joyful dance that includes flips and throws, often to big band music.", "category": "Dance Genres", "complexity": "Hard"},
     {"word": "Popping", "description": "A dance that involves quickly contracting and relaxing muscles to create a jerking effect.", "category": "Dance Genres", "complexity": "Medium"},

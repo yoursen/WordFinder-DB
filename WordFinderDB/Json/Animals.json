@@ -1,6 +1,6 @@
 [
-    {"word": "cat", "description": "A small domesticated carnivorous mammal with soft fur.", "category": "Animals", "complexity": "Easy"},
-    {"word": "dog", "description": "A loyal animal known as man's best friend, often kept as a pet.", "category": "Animals", "complexity": "Easy"},
+    {"word": "cat", "isPro" : "false", "description": "A small domesticated carnivorous mammal with soft fur.", "category": "Animals", "complexity": "Easy"},
+    {"word": "dog", "isPro" : "false", "description": "A loyal animal known as man's best friend, often kept as a pet.", "category": "Animals", "complexity": "Easy"},
     {"word": "fish", "description": "An aquatic creature that swims and has gills to breathe underwater.", "category": "Animals", "complexity": "Easy"},
     {"word": "ant", "description": "A tiny insect known for its strength and social colonies.", "category": "Animals", "complexity": "Easy"},
     {"word": "bee", "description": "A flying insect known for making honey and pollinating plants.", "category": "Animals", "complexity": "Easy"},
@@ -9,7 +9,7 @@
     {"word": "duck", "description": "A waterbird with webbed feet, known for its quacking sound.", "category": "Animals", "complexity": "Easy"},
     {"word": "horse", "description": "A large animal used for riding and racing, known for its speed.", "category": "Animals", "complexity": "Easy"},
     {"word": "frog", "description": "An amphibian that jumps and has a distinctive croaking call.", "category": "Animals", "complexity": "Easy"},
-    {"word": "butterfly", "description": "A flying insect with colorful wings and a life cycle that includes metamorphosis.", "category": "Animals", "complexity": "Easy"},
+    {"word": "butterfly", "isPro" : "false", "description": "A flying insect with colorful wings and a life cycle that includes metamorphosis.", "category": "Animals", "complexity": "Easy"},
     {"word": "chicken", "description": "A common farm bird raised for eggs and meat.", "category": "Animals", "complexity": "Easy"},
     {"word": "rabbit", "description": "A small, furry animal with long ears and a short tail.", "category": "Animals", "complexity": "Easy"},
     {"word": "turtle", "description": "A reptile with a hard shell that lives both on land and in water.", "category": "Animals", "complexity": "Easy"},
@@ -21,7 +21,7 @@
     {"word": "goldfish", "description": "A small, shiny, golden-orange fish often kept in home aquariums.", "category": "Animals", "complexity": "Easy"},
     {"word": "mouse", "description": "A small rodent with a pointed nose, furry body, and a long, thin tail.", "category": "Animals", "complexity": "Easy"},
     {"word": "ladybug", "description": "A small, round beetle that is red with black spots, known as a gardener's friend.", "category": "Animals", "complexity": "Easy"},
-    {"word": "zebra", "description": "A wild horse with black and white stripes.", "category": "Animals", "complexity": "Easy"},
+    {"word": "zebra", "isPro" : "false", "description": "A wild horse with black and white stripes.", "category": "Animals", "complexity": "Easy"},
     {"word": "kangaroo", "description": "A large Australian marsupial with powerful hind legs for hopping.", "category": "Animals", "complexity": "Easy"},
     {"word": "elephant", "description": "The largest land animal with a long trunk and big ears.", "category": "Animals", "complexity": "Easy"},
 

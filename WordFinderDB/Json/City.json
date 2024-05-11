@@ -1,11 +1,11 @@
 [
     {"word": "Park", "description": "A public area with trees and paths where people can walk and relax.", "category": "City", "complexity": "Easy"},
-    {"word": "Museum", "description": "A building where historical, artistic, or scientific objects are kept and shown.", "category": "City", "complexity": "Easy"},
+    {"word": "Museum", "isPro" : "false", "description": "A building where historical, artistic, or scientific objects are kept and shown.", "category": "City", "complexity": "Easy"},
     {"word": "Subway", "description": "An underground electric railway system in a city.", "category": "City", "complexity": "Easy"},
     {"word": "Cafe", "description": "A small restaurant where you can buy drinks and simple meals.", "category": "City", "complexity": "Easy"},
     {"word": "Plaza", "description": "An open public area in a city where people can gather.", "category": "City", "complexity": "Medium"},
     {"word": "Boulevard", "description": "A wide city street, often with trees along the sides.", "category": "City", "complexity": "Medium"},
-    {"word": "Skyscraper", "description": "A very tall building in a city.", "category": "City", "complexity": "Medium"},
+    {"word": "Skyscraper", "isPro" : "false", "description": "A very tall building in a city.", "category": "City", "complexity": "Medium"},
     {"word": "District", "description": "A specific area within a city, often with a distinct character.", "category": "City", "complexity": "Medium"},
     {"word": "Metropolis", "description": "A very large and busy city, often an important cultural and economic center.", "category": "City", "complexity": "Hard"},
     {"word": "Infrastructure", "description": "The basic systems and services, such as transport and power supplies, that a city needs to work effectively.", "category": "City", "complexity": "Hard"},
@@ -21,7 +21,7 @@
     {"word": "Cathedral", "description": "The principal church of a diocese, with which the bishop is officially associated.", "category": "City", "complexity": "Medium"},
     {"word": "Capital", "description": "The city or town that functions as the seat of government and administrative center of a country or region.", "category": "City", "complexity": "Easy"},
     {"word": "Facade", "description": "The front of a building, especially an imposing or decorative one.", "category": "City", "complexity": "Medium"},
-    {"word": "Pedestrian", "description": "A person walking rather than traveling in a vehicle.", "category": "City", "complexity": "Easy"},
+    {"word": "Pedestrian", "isPro" : "false", "description": "A person walking rather than traveling in a vehicle.", "category": "City", "complexity": "Easy"},
     {"word": "Intersection", "description": "A point or line common to lines or surfaces that intersect.", "category": "City", "complexity": "Easy"},
     {"word": "Monument", "description": "A statue, building, or other structure erected to commemorate a notable person or event.", "category": "City", "complexity": "Medium"}
   ]

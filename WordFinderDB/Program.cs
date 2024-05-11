@@ -41,6 +41,7 @@ class Program
                     Word = word.word,
                     Description = word.description,
                     Category = category,
+                    IsPro = !(word.isPro == "False" || word.isPro == "false"),
                     Complexity = GetComplexity(word.complexity)
                 });
             }

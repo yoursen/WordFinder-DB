@@ -1,10 +1,10 @@
 [
-    {"word": "Pop", "description": "Pop music features catchy melodies and simple chord progressions. It often deals with themes of love and relationships.", "category": "Music Genres", "complexity": "Easy"},
+    {"word": "Pop", "isPro" : "false", "description": "a genre characterized by strong, driving rhythms, amplified instruments, and emotive lyrics.", "category": "Music Genres", "complexity": "Easy"},
     {"word": "Rock", "description": "Originating from rock and roll, rock music quickly became a force of its own.", "category": "Music Genres", "complexity": "Easy"},
     {"word": "Rap", "description": "A genre centered around rhythm and rhymes.", "category": "Music Genres", "complexity": "Easy"},
-    {"word": "Jazz", "description": "Known for its improvisation and syncopated rhythms.", "category": "Music Genres", "complexity": "Medium"},
-    {"word": "Blues", "description": "Expressive music with soulful melodies and lyrics.", "category": "Music Genres", "complexity": "Medium"},
+    {"word": "Jazz", "isPro" : "false", "description": "Known for its improvisation and syncopated rhythms.", "category": "Music Genres", "complexity": "Medium"},
+    {"word": "Blues", "isPro" : "false", "description": "Expressive music with soulful melodies and lyrics.", "category": "Music Genres", "complexity": "Medium"},
     {"word": "Folk", "description": "Traditional music passed down through generations.", "category": "Music Genres", "complexity": "Medium"},
-    {"word": "Metal", "description": "Heavy and intense music characterized by distorted guitars and powerful vocals.", "category": "Music Genres", "complexity": "Hard"},
+    {"word": "Metal", "isPro" : "false", "description": "Heavy and intense music characterized by distorted guitars and powerful vocals.", "category": "Music Genres", "complexity": "Hard"},
     {"word": "Country", "description": "Rooted in rural American traditions, country music often tells stories of life, love, and hardship.", "category": "Music Genres", "complexity": "Hard"}
 ]

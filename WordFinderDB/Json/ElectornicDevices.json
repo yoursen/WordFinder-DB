@@ -1,11 +1,11 @@
 [
-    {"word": "Phone", "description": "A device to talk to someone far away.", "category": "Electronic Devices", "complexity": "Easy"},
+    {"word": "Phone", "isPro" : "false", "description": "A device to talk to someone far away.", "category": "Electronic Devices", "complexity": "Easy"},
     {"word": "Laptop", "description": "A portable computer you can use anywhere.", "category": "Electronic Devices", "complexity": "Easy"},
     {"word": "Earbuds", "description": "Small headphones that fit inside your ears.", "category": "Electronic Devices", "complexity": "Easy"},
     {"word": "Charger", "description": "A device that powers up your electronics.", "category": "Electronic Devices", "complexity": "Easy"},
-    {"word": "Mouse", "description": "A device to point and click on a computer.", "category": "Electronic Devices", "complexity": "Easy"},
+    {"word": "Mouse", "isPro" : "false", "description": "A device to point and click on a computer.", "category": "Electronic Devices", "complexity": "Easy"},
     {"word": "Keyboard", "description": "A set of keys to type on a computer.", "category": "Electronic Devices", "complexity": "Easy"},
-    {"word": "Tablet", "description": "A flat computer with a touchscreen.", "category": "Electronic Devices", "complexity": "Medium"},
+    {"word": "Tablet", "isPro" : "false", "description": "A flat computer with a touchscreen.", "category": "Electronic Devices", "complexity": "Medium"},
     {"word": "Monitor", "description": "A screen for showing computer images.", "category": "Electronic Devices", "complexity": "Medium"},
     {"word": "Speaker", "description": "A device that plays sound out loud.", "category": "Electronic Devices", "complexity": "Medium"},
     {"word": "Router", "description": "A device that gives you internet access.", "category": "Electronic Devices", "complexity": "Medium"},
@@ -22,7 +22,7 @@
     {"word": "Smart Thermostat", "description": "A device to control your home's temperature.", "category": "Electronic Devices", "complexity": "Hard"},
     {"word": "Graphics Card", "description": "A part of the computer that makes the images.", "category": "Electronic Devices", "complexity": "Hard"},
     {"word": "Motherboard", "description": "The main circuit board in a computer.", "category": "Electronic Devices", "complexity": "Hard"},
-    {"word": "Processor", "description": "The brain of the computer.", "category": "Electronic Devices", "complexity": "Hard"},
+    {"word": "Processor", "isPro" : "false", "description": "The brain of the computer.", "category": "Electronic Devices", "complexity": "Hard"},
     {"word": "Modem", "description": "A device that connects your home to the internet.", "category": "Electronic Devices", "complexity": "Hard"}
   ]
   

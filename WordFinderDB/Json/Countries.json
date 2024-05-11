@@ -1,12 +1,12 @@
 [
     {"word": "Peru", "description": "A country in South America known for Machu Picchu.", "category": "Countries", "complexity": "Easy"},
-    {"word": "Egypt", "description": "A country linking northeast Africa with the Middle East, home to the pyramids.", "category": "Countries", "complexity": "Easy"},
+    {"word": "Egypt", "isPro" : "false", "description": "A country linking northeast Africa with the Middle East, home to the pyramids.", "category": "Countries", "complexity": "Easy"},
     {"word": "India", "description": "A large country in South Asia, famous for the Taj Mahal.", "category": "Countries", "complexity": "Easy"},
-    {"word": "Japan", "description": "An island nation in East Asia known for technology and sushi.", "category": "Countries", "complexity": "Easy"},
+    {"word": "Japan", "isPro" : "false", "description": "An island nation in East Asia known for technology and sushi.", "category": "Countries", "complexity": "Easy"},
     {"word": "Kenya", "description": "A country in East Africa with savannahs and wildlife like elephants.", "category": "Countries", "complexity": "Medium"},
     {"word": "Norway", "description": "A Scandinavian country with fjords, known for Vikings history.", "category": "Countries", "complexity": "Medium"},
     {"word": "Chile", "description": "A long, narrow country stretching along South America's western edge.", "category": "Countries", "complexity": "Medium"},
-    {"word": "Greece", "description": "A southeastern European country with ancient history and sunny islands.", "category": "Countries", "complexity": "Medium"},
+    {"word": "Greece", "isPro" : "false", "description": "A southeastern European country with ancient history and sunny islands.", "category": "Countries", "complexity": "Medium"},
     {"word": "Nepal", "description": "A country in the Himalayas, home to the world's highest mountain.", "category": "Countries", "complexity": "Hard"},
     {"word": "Bhutan", "description": "A Buddhist kingdom on the Himalayas' eastern edge, known for monasteries.", "category": "Countries", "complexity": "Hard"},
     {"word": "Cuba", "description": "An island nation in the Caribbean known for its cigars and vintage cars.", "category": "Countries", "complexity": "Medium"},
@@ -18,6 +18,6 @@
     {"word": "Laos", "description": "A Southeast Asian country known for mountainous terrain and French colonial architecture.", "category": "Countries", "complexity": "Hard"},
     {"word": "Monaco", "description": "A tiny independent city-state on France’s Mediterranean coastline known for its upscale casinos.", "category": "Countries", "complexity": "Medium"},
     {"word": "Oman", "description": "An Arab country on the southeastern coast of the Arabian Peninsula.", "category": "Countries", "complexity": "Hard"},
-    {"word": "Poland", "description": "A country in Central Europe with medieval architecture and Jewish heritage.", "category": "Countries", "complexity": "Medium"}
+    {"word": "Poland", "description": "A country in Central Europe with medieval architecture.", "category": "Countries", "complexity": "Medium"}
   ]
   

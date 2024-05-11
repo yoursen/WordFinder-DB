@@ -5,4 +5,5 @@ public class WordJson
     public string description { get; set; }
     public string category { get; set; }
     public string complexity { get; set; }
+    public string isPro { get; set; }
 }

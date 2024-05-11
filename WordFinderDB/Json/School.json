@@ -1,10 +1,10 @@
 [
-    {"word": "pencil", "description": "A tool used for writing or drawing, typically made of wood and graphite.", "category": "School", "complexity": "Easy"},
-    {"word": "homework", "description": "Tasks assigned by teachers for students to complete outside of class.", "category": "School", "complexity": "Easy"},
+    {"word": "pencil", "isPro" : "false", "description": "A tool used for writing or drawing, typically made of wood and graphite.", "category": "School", "complexity": "Easy"},
+    {"word": "homework", "isPro" : "false", "description": "Tasks assigned by teachers for students to complete outside of class.", "category": "School", "complexity": "Easy"},
     {"word": "quiz", "description": "A short test to assess knowledge on a subject.", "category": "School", "complexity": "Easy"},
     {"word": "recess", "description": "A break period for students to rest or play.", "category": "School", "complexity": "Easy"},
     {"word": "subject", "description": "An area of knowledge studied in school, like math or science.", "category": "School", "complexity": "Medium"},
-    {"word": "algebra", "description": "A branch of mathematics dealing with symbols and the rules for manipulating those symbols.", "category": "School", "complexity": "Medium"},
+    {"word": "algebra", "isPro" : "false", "description": "A branch of mathematics dealing with symbols and the rules for manipulating those symbols.", "category": "School", "complexity": "Medium"},
     {"word": "essay", "description": "A short piece of writing on a particular subject.", "category": "School", "complexity": "Medium"},
     {"word": "laboratory", "description": "A room equipped for scientific experiments, research, or teaching.", "category": "School", "complexity": "Medium"},
     {"word": "geometry", "description": "The branch of mathematics concerned with the properties and relations of points, lines, surfaces, and solids.", "category": "School", "complexity": "Hard"},

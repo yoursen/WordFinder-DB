@@ -1,9 +1,9 @@
 [
-    {"word": "paint", "description": "A colored substance spread over surfaces to decorate them.", "category": "Art", "complexity": "Easy"},
-    {"word": "brush", "description": "A tool with bristles used to apply paint on a canvas.", "category": "Art", "complexity": "Easy"},
-    {"word": "sketch", "description": "A rough drawing made quickly without much detail.", "category": "Art", "complexity": "Easy"},
+    {"word": "paint", "isPro" : "false", "description": "A colored substance spread over surfaces to decorate them.", "category": "Art", "complexity": "Easy"},
+    {"word": "brush", "isPro" : "false", "description": "A tool with bristles used to apply paint on a canvas.", "category": "Art", "complexity": "Easy"},
+    {"word": "sketch", "isPro" : "false", "description": "A rough drawing made quickly without much detail.", "category": "Art", "complexity": "Easy"},
     {"word": "clay", "description": "A soft, sticky earth material used to make pottery and sculptures.", "category": "Art", "complexity": "Easy"},
-    {"word": "mural", "description": "A large painting applied directly to a wall or ceiling.", "category": "Art", "complexity": "Medium"},
+    {"word": "mural", "isPro" : "false", "description": "A large painting applied directly to a wall or ceiling.", "category": "Art", "complexity": "Medium"},
     {"word": "palette", "description": "A board artists use to mix their paints on.", "category": "Art", "complexity": "Medium"},
     {"word": "collage", "description": "Art made by sticking various materials on a surface.", "category": "Art", "complexity": "Medium"},
     {"word": "easel", "description": "A stand for holding a painter's canvas while working.", "category": "Art", "complexity": "Medium"},
