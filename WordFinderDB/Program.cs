@@ -7,43 +7,58 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        var words = GetWords();
-        var categories = words.Select(w => w.category).Distinct().ToList();
-
         var dbFile = Directory.GetCurrentDirectory() + @"/DB/Words.db";
         if (File.Exists(dbFile))
             File.Delete(dbFile);
 
+        await FillDB<GameWord, GameWordCategory>("", @"[^a-zA-Z]");
+        await FillDB<GameWord_uk_UA, GameWordCategory_uk_UA>("_uk_UA", @"[^a-zA-Zа-яА-ЯіїІЇґҐєЄʼ']");
+    }
+
+    private static async Task FillDB<TWords, TCategory>(string suffix, string regexFilter)
+        where TWords : class, IGameWord
+        where TCategory : class, IGameWordCategory
+    {
+        var words = GetWords(suffix);
+        var categories = words.Select(w => w.category).Distinct().ToList();
+
         using (var db = new WordsDbContext())
         {
             db.Database.EnsureCreated();
-            db.GameWords.RemoveRange(db.GameWords.ToArray());
+            db.Set<TWords>().RemoveRange(db.Set<TWords>().ToArray());
 
             foreach (var category in categories)
             {
-                if (db.GameWordCategories.Any(c => c.Name == category))
+                if (db.Set<TCategory>().Any(c => c.Name == category))
                     continue;
-                db.GameWordCategories.Add(new GameWordCategory() { Name = category });
+
+                var cat = Activator.CreateInstance<TCategory>();
+                cat.Name = category;
+                db.Set<TCategory>().Add(cat);
             }
 
             await db.SaveChangesAsync();
 
             foreach (var word in words)
             {
-                if (Regex.IsMatch(word.word, @"[^a-zA-Z]")
-                 || db.GameWords.Any(w => w.Word == word.word))
+                if (Regex.IsMatch(word.word, regexFilter) || db.Set<TWords>().Any(w => w.Word == word.word))
                 {
+                    Console.WriteLine($"-->{word.word}<--");
                     continue;
                 }
-                var category = db.GameWordCategories.First(c => c.Name == word.category);
-                db.GameWords.Add(new GameWord()
-                {
-                    Word = word.word,
-                    Description = word.description,
-                    Category = category,
-                    IsPro = !(word.isPro == "False" || word.isPro == "false"),
-                    Complexity = GetComplexity(word.complexity)
-                });
+
+                var category = db.Set<TCategory>().First(c => c.Name == word.category);
+                var w = Activator.CreateInstance<TWords>();
+                w.Word = word.word;
+                w.Description = word.description;
+                
+                dynamic d = w;
+                d.Category = category;
+                
+                w.IsPro = !(word.isPro == "False" || word.isPro == "false");
+                w.Complexity = GetComplexity(word.complexity);
+
+                db.Set<TWords>().Add(w);
             }
 
             await db.SaveChangesAsync();
@@ -58,11 +73,11 @@ class Program
         _ => throw new ArgumentException()
     };
 
-    private static WordJson[] GetWords()
+    private static WordJson[] GetWords(string suffix)
     {
         List<WordJson> words = new();
         var path = Directory.GetCurrentDirectory();
-        foreach (var f in Directory.EnumerateFiles(path + "/Json", "*.json"))
+        foreach (var f in Directory.EnumerateFiles(path + "/Json" + suffix, "*.json"))
         {
             var context = File.ReadAllText(f);
             var jsonWords = JsonSerializer.Deserialize<WordJson[]>(context);
