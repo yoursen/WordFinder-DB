@@ -1,0 +1,19 @@
+[
+  {"word": "Додаток", "description": "Програма на телефоні або комп'ютері.", "category": "Технології", "complexity": "Easy"},
+  {"word": "Блог", "description": "Веб-сайт з регулярними записами про теми.", "category": "Технології", "complexity": "Easy"},
+  {"word": "Код", "description": "Інструкції для комп'ютерів щодо виконання завдань.", "category": "Технології", "complexity": "Easy"},
+  {"word": "Дані", "description": "Інформація, збережена або використовується комп'ютером.", "category": "Технології", "complexity": "Easy"},
+  {"word": "Електронна пошта", "isPro" : "false", "description": "Повідомлення, надіслані через Інтернет.", "category": "Технології", "complexity": "Easy"},
+  {"word": "Файл", "isPro" : "false", "description": "Документ, збережений на комп'ютері.", "category": "Технології", "complexity": "Easy"},
+  {"word": "HTML", "description": "Мова для створення веб-сторінок.", "category": "Технології", "complexity": "Medium"},
+  {"word": "Іконка", "description": "Малюнок, що представляє програму або файл.", "category": "Технології", "complexity": "Medium"},
+  {"word": "Java", "description": "Мова програмування для додатків та веб-сайтів.", "category": "Технології", "complexity": "Medium"},
+  {"word": "Модем", "description": "Пристрій, що з'єднує комп'ютер з Інтернетом.", "category": "Технології", "complexity": "Medium"},
+  {"word": "Піксель", "description": "Найменша одиниця цифрового зображення.", "category": "Технології", "complexity": "Medium"},
+  {"word": "Запит", "description": "Запит на отримання інформації з бази даних.", "category": "Технології", "complexity": "Hard"},
+  {"word": "Робот", "description": "Машина, програмована для виконання завдань.", "category": "Технології", "complexity": "Hard"},
+  {"word": "Сервер", "description": "Комп'ютер, який надає дані іншим комп'ютерам.", "category": "Технології", "complexity": "Hard"},
+  {"word": "URL", "description": "Адреса веб-сторінки.", "category": "Технології", "complexity": "Hard"},
+  {"word": "Вірус", "isPro" : "false", "description": "Програма, яка може завдати шкоди комп'ютеру.", "category": "Технології", "complexity": "Hard"},
+  {"word": "Віджет", "description": "Невелика програма з обмеженим функціоналом.", "category": "Технології", "complexity": "Hard"}
+  ]

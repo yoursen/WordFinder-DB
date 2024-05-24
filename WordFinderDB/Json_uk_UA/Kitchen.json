@@ -1,0 +1,20 @@
+[
+  {"word": "Ложка", "isPro" : "false", "description": "Інструмент для їжі або приготування їжі, зазвичай виготовлений з металу або пластику.", "category": "Кухня", "complexity": "Easy"},
+  {"word": "Піч", "isPro" : "false", "description": "Кухонний прилад, що використовується для випікання або запікання їжі.", "category": "Кухня", "complexity": "Easy"},
+  {"word": "Міксер", "isPro" : "false", "description": "Машина, що з'єднує інгредієнти разом.", "category": "Кухня", "complexity": "Medium"},
+  {"word": "Дуршлаг", "description": "Миска з отворами для відцідження води з їжі, наприклад, паста.", "category": "Кухня", "complexity": "Medium"},
+  {"word": "Лопатка", "description": "Плоский інструмент, призначений для перевертання або розподілу їжі.", "category": "Кухня", "complexity": "Easy"},
+  {"word": "Терка", "description": "Пристрій з гострими поверхнями для тертя їжі на дрібні шматочки.", "category": "Кухня", "complexity": "Medium"},
+  {"word": "Ножовка", "description": "Інструмент для видалення зовнішнього шару фруктів і овочів.", "category": "Кухня", "complexity": "Easy"},
+  {"word": "Блендер", "isPro" : "false", "description": "Електрична машина, що змішує їжу та рідини в однорідну масу.", "category": "Кухня", "complexity": "Medium"},
+  {"word": "Віник", "description": "Інструмент для швидкого перемішування або вбивання продуктів.", "category": "Кухня", "complexity": "Easy"},
+  {"word": "Сковорода", "description": "Посуд для смаження, пожарювання та підсмажування їжі.", "category": "Кухня", "complexity": "Medium"},
+  {"word": "Щипці", "description": "Інструмент для захоплення та підйому їжі без контакту з нею.", "category": "Кухня", "complexity": "Easy"},
+  {"word": "Кубик", "description": "Пристрій для швидкого різання їжі на менші шматочки.", "category": "Кухня", "complexity": "Medium"},
+  {"word": "Сито", "description": "Посуд з сіткою, призначений для відокремлення дрібних частинок від більших.", "category": "Кухня", "complexity": "Medium"},
+  {"word": "Цедрка", "description": "Інструмент для видалення зовнішньої частини шкірки з цитрусових.", "category": "Кухня", "complexity": "Hard"},
+  {"word": "Мандоліна", "description": "Терка з регульованими лезами для різання овочів та фруктів.", "category": "Кухня", "complexity": "Hard"},
+  {"word": "Корковідкривач", "description": "Інструмент для видалення корок з пляшок вина.", "category": "Кухня", "complexity": "Medium"},
+  {"word": "Пароварка", "description": "Пристрій для приготування їжі на пару.", "category": "Кухня", "complexity": "Medium"},
+  {"word": "Гриль", "description": "Пласка поверхня для приготування млинців, яєць та інших страв.", "category": "Кухня", "complexity": "Medium"}
+  ]
