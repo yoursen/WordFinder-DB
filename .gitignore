@@ -3,3 +3,5 @@
 .db-shm
 .db-wal
 WordFinderDB/DB/Words.db
+WordFinderDB/DB/Words.db-shm
+WordFinderDB/DB/Words.db-wal
