@@ -3,7 +3,7 @@
   {"word": "Блог", "description": "Веб-сайт з регулярними записами.", "category": "Технології", "complexity": "Easy"},
   {"word": "Код", "description": "Інструкції для комп'ютерів щодо виконання завдань.", "category": "Технології", "complexity": "Easy"},
   {"word": "Дані", "description": "Інформація, що використовується комп'ютером.", "category": "Технології", "complexity": "Easy"},
-  {"word": "Електронна пошта", "isPro" : "false", "description": "Повідомлення, надіслані через Інтернет.", "category": "Технології", "complexity": "Easy"},
+  {"word": "Емейл", "isPro" : "false", "description": "Повідомлення, надіслані через Інтернет.", "category": "Технології", "complexity": "Easy"},
   {"word": "Файл", "isPro" : "false", "description": "Документ, збережений на комп'ютері.", "category": "Технології", "complexity": "Easy"},
   {"word": "HTML", "description": "Мова для створення веб-сторінок.", "category": "Технології", "complexity": "Medium"},
   {"word": "Іконка", "description": "Малюнок, що представляє програму або файл.", "category": "Технології", "complexity": "Medium"},
