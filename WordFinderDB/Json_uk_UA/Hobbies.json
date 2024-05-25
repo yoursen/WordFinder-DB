@@ -1,5 +1,5 @@
 [
-  {"word": "Читання", "isPro" : "false", "description": "Дія перегляду письмових слів і їх зрозуміння.", "category": "Хобі", "complexity": "Easy"},
+  {"word": "Читання", "isPro" : "false", "description": "Перегляд письмових слів у книжці.", "category": "Хобі", "complexity": "Easy"},
   {"word": "В'язання", "description": "Створення тканини за допомогою взаємодії петель пряжі з голками.", "category": "Хобі", "complexity": "Medium"},
   {"word": "Оригамі", "description": "Японське мистецтво складання паперу у декоративні форми та фігури.", "category": "Хобі", "complexity": "Medium"},
   {"word": "Садівництво", "description": "Практика вирощування та догляду за рослинами.", "category": "Хобі", "complexity": "Easy"},
@@ -11,10 +11,8 @@
   {"word": "Скрапбукінг", "description": "Хобі створення декоративних альбомів для збереження особистої та сімейної історії.", "category": "Хобі", "complexity": "Medium"},
   {"word": "Кераміка", "description": "Мистецтво виготовлення горщиків, посуду та інших виробів з глини.", "category": "Хобі", "complexity": "Medium"},
   {"word": "Танець", "description": "Рухи в ритмі музики, як правило, за певною послідовністю кроків.", "category": "Хобі", "complexity": "Easy"},
-  {"word": "Стрільба з лука", "description": "Спортивний вид стрільби стрілами з лука.", "category": "Хобі", "complexity": "Medium"},
   {"word": "Блогінг", "description": "Публікація вмісту на веб-сторінці або блозі.", "category": "Хобі", "complexity": "Medium"},
   {"word": "Живопис", "description": "Практика нанесення пігменту на поверхню для створення художньої роботи.", "category": "Хобі", "complexity": "Easy"},
   {"word": "Магія", "description": "Мистецтво виконання фокусів, які розважають людей.", "category": "Хобі", "complexity": "Hard"},
-  {"word": "Спостереження за птахами", "description": "Спостереження за птахами у їхньому природному середовищі як хобі.", "category": "Хобі", "complexity": "Medium"},
   {"word": "Риболовля", "description": "Діяльність з вилову риби, як для їжі, так і як спорт.", "category": "Хобі", "complexity": "Easy"}
 ]

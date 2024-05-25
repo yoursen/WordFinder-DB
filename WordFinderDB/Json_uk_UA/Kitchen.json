@@ -1,16 +1,16 @@
 [
-  {"word": "Ложка", "isPro" : "false", "description": "Інструмент для їжі або приготування їжі, зазвичай виготовлений з металу або пластику.", "category": "Кухня", "complexity": "Easy"},
+  {"word": "Ложка", "isPro" : "false", "description": "Інструмент для їжі або приготування, зазвичай виготовлений з металу або пластику.", "category": "Кухня", "complexity": "Easy"},
   {"word": "Піч", "isPro" : "false", "description": "Кухонний прилад, що використовується для випікання або запікання їжі.", "category": "Кухня", "complexity": "Easy"},
   {"word": "Міксер", "isPro" : "false", "description": "Машина, що з'єднує інгредієнти разом.", "category": "Кухня", "complexity": "Medium"},
-  {"word": "Дуршлаг", "description": "Миска з отворами для відцідження води з їжі, наприклад, паста.", "category": "Кухня", "complexity": "Medium"},
+  {"word": "Дуршлаг", "description": "Миска з отворами для відцідження води з їжі.", "category": "Кухня", "complexity": "Medium"},
   {"word": "Лопатка", "description": "Плоский інструмент, призначений для перевертання або розподілу їжі.", "category": "Кухня", "complexity": "Easy"},
   {"word": "Терка", "description": "Пристрій з гострими поверхнями для тертя їжі на дрібні шматочки.", "category": "Кухня", "complexity": "Medium"},
   {"word": "Блендер", "isPro" : "false", "description": "Електрична машина, що змішує їжу та рідини в однорідну масу.", "category": "Кухня", "complexity": "Medium"},
   {"word": "Віник", "description": "Інструмент для швидкого перемішування або вбивання продуктів.", "category": "Кухня", "complexity": "Easy"},
-  {"word": "Сковорода", "description": "Посуд для смаження, пожарювання та підсмажування їжі.", "category": "Кухня", "complexity": "Medium"},
-  {"word": "Щипці", "description": "Інструмент для захоплення та підйому їжі без контакту з нею.", "category": "Кухня", "complexity": "Easy"},
+  {"word": "Сковорода", "description": "Посуд для підсмажування їжі.", "category": "Кухня", "complexity": "Medium"},
+  {"word": "Щипці", "description": "Інструмент для підйому їжі.", "category": "Кухня", "complexity": "Easy"},
   {"word": "Сито", "description": "Посуд з сіткою, призначений для відокремлення дрібних частинок від більших.", "category": "Кухня", "complexity": "Medium"},
-  {"word": "Коркотяг", "description": "Інструмент для видалення корок з пляшок вина.", "category": "Кухня", "complexity": "Medium"},
+  {"word": "Коркотяг", "description": "Інструмент для витягування корку з пляшок вина.", "category": "Кухня", "complexity": "Medium"},
   {"word": "Пароварка", "description": "Пристрій для приготування їжі на пару.", "category": "Кухня", "complexity": "Medium"},
-  {"word": "Гриль", "description": "Пласка поверхня для приготування млинців, яєць та інших страв.", "category": "Кухня", "complexity": "Medium"}
+  {"word": "Гриль", "description": "Поверхня для приготування стейків.", "category": "Кухня", "complexity": "Medium"}
   ]

@@ -1,17 +1,17 @@
 [
-    {"word": "двері", "isPro" : "false", "description": "Пересувний вхід до кімнати або будівлі.", "category": "Будинок", "complexity": "Easy"},
-    {"word": "вікно", "isPro" : "false", "description": "Відкриття в стіні для пропускання світла та повітря, зазвичай з склом.", "category": "Будинок", "complexity": "Easy"},
+    {"word": "двері", "isPro" : "false", "description": "Вхід до кімнати або будівлі.", "category": "Будинок", "complexity": "Easy"},
+    {"word": "вікно", "isPro" : "false", "description": "Дірка в стіні для пропускання світла та повітря, зазвичай з склом.", "category": "Будинок", "complexity": "Easy"},
     {"word": "дах", "description": "Верхнє покриття будівлі.", "category": "Будинок", "complexity": "Easy"},
-    {"word": "стілець", "isPro" : "false", "description": "Мебель для однієї особи для сидіння, зі спинкою, ногами, а іноді й двома підлокітниками.", "category": "Будинок", "complexity": "Easy"},
-    {"word": "стіл", "description": "Мебель з плоскою верхньою частиною та однією або декількома ногами.", "category": "Будинок", "complexity": "Easy"},
+    {"word": "стілець", "isPro" : "false", "description": "Меблі для однієї особи для сидіння, зі спинкою, ніжками.", "category": "Будинок", "complexity": "Easy"},
+    {"word": "стіл", "description": "Меблі з плоскою верхньою частиною та однією або декількома ніжками.", "category": "Будинок", "complexity": "Easy"},
     {"word": "спальня", "isPro" : "false", "description": "Кімната для сну.", "category": "Будинок", "complexity": "Medium"},
-    {"word": "кухня", "description": "Кімната, де готують та приготовують їжу.", "category": "Будинок", "complexity": "Medium"},
+    {"word": "кухня", "description": "Кімната, де готують та готують їжу.", "category": "Будинок", "complexity": "Medium"},
     {"word": "ванна", "description": "Кімната з ванною і / або душем і часто з унітазом.", "category": "Будинок", "complexity": "Medium"},
     {"word": "підвал", "description": "Кімната під рівнем землі в будинку, яка зазвичай використовується для зберігання.", "category": "Будинок", "complexity": "Medium"},
     {"word": "горище", "description": "Простір або кімната безпосередньо під дахом будинку.", "category": "Будинок", "complexity": "Medium"},
-    {"word": "балкон", "description": "Платформа, оточена стіною або перилями ззовні будівлі, з доступом з вікна чи дверей верхнього поверху.", "category": "Будинок", "complexity": "Hard"},
+    {"word": "балкон", "description": "Платформа, оточена стіною або перилами ззовні будівлі.", "category": "Будинок", "complexity": "Hard"},
     {"word": "під'їзд", "description": "Коротка приватна дорога від будинку або гаража до вулиці.", "category": "Будинок", "complexity": "Hard"},
-    {"word": "камін", "description": "Місце для домашнього вогню, особливо решітка або опалювальна піч в основі димоходу.", "category": "Будинок", "complexity": "Hard"},
-    {"word": "сходи", "description": "Набір сходів та оточуючі їх стіни або конструкція.", "category": "Будинок", "complexity": "Hard"},
-    {"word": "коридор", "description": "Довгий коридор в будівлі, з якого відходять двері в кімнати.", "category": "Будинок", "complexity": "Hard"}
+    {"word": "камін", "description": "Місце для домашнього вогню.", "category": "Будинок", "complexity": "Hard"},
+    {"word": "сходи", "description": "Набір підвищень та оточуючі їх стіни або конструкція.", "category": "Будинок", "complexity": "Hard"},
+    {"word": "коридор", "description": "Довге приміження в будівлі, з якого відходять двері в кімнати.", "category": "Будинок", "complexity": "Hard"}
 ]

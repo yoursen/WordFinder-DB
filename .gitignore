@@ -5,3 +5,4 @@
 WordFinderDB/DB/Words.db
 WordFinderDB/DB/Words.db-shm
 WordFinderDB/DB/Words.db-wal
+.DS_Store

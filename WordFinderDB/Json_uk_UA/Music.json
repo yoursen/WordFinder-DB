@@ -7,7 +7,7 @@
   {"word": "темп", "description": "Швидкість ритму в музиці.", "category": "Музика", "complexity": "Medium"},
   {"word": "акустична", "description": "Музика, що виконується без електричних інструментів.", "category": "Музика", "complexity": "Medium"},
   {"word": "балада", "description": "Повільна сентиментальна або романтична пісня.", "category": "Музика", "complexity": "Medium"},
-  {"word": "хор", "description": "Частина пісні, яка повторюється після кожного куплету.", "category": "Музика", "complexity": "Medium"},
+  {"word": "приспів", "description": "Частина пісні, яка повторюється після кожного куплету.", "category": "Музика", "complexity": "Medium"},
   {"word": "октава", "isPro" : "false", "description": "Серія восьми нот, що займають інтервал між двома нотами.", "category": "Музика", "complexity": "Hard"},
   {"word": "соната", "description": "Композиція для сольного інструменталіста, часто з фортепіанним супроводом.", "category": "Музика", "complexity": "Hard"},
   {"word": "фуга", "description": "Складний музичний твір з частинами, що повторюються у різних голосах.", "category": "Музика", "complexity": "Hard"},

@@ -13,7 +13,7 @@
   {"word": "кюлоти", "description": "Широкі штани, що нагадують спідницю.", "category": "Одяг", "complexity": "Hard"},
   {"word": "пальто", "description": "Важке двобортне пальто, часто темно-синього кольору.", "category": "Одяг", "complexity": "Hard"},
   {"word": "камізелька", "description": "Вільний одяг для верхньої частини тіла, який носять під іншим одягом.", "category": "Одяг", "complexity": "Hard"},
-  {"word": "боді", "description": "Обтислій одяг, який покриває торс.", "category": "Одяг", "complexity": "Hard"},
+  {"word": "боді", "description": "Облягаючий одяг, який покриває торс.", "category": "Одяг", "complexity": "Hard"},
   {"word": "федора", "description": "Капелюх з м'якими полями та втиснутою короною.", "category": "Одяг", "complexity": "Medium"},
   {"word": "рукавички", "isPro" : "false", "description": "Одяг для рук з окремими відділеннями для кожного пальця.", "category": "Одяг", "complexity": "Easy"},
   {"word": "пончо", "description": "Плащ у вигляді ковдри з отвором для голови.", "category": "Одяг", "complexity": "Medium"},
