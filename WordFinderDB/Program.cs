@@ -2,9 +2,12 @@
 using System.Text.RegularExpressions;
 using DB;
 using Json;
+using Microsoft.EntityFrameworkCore;
 
 class Program
 {
+    private const int DB_VERSION = 1;
+
     static async Task Main(string[] args)
     {
         var dbFile = Directory.GetCurrentDirectory() + @"/DB/Words.db";
@@ -25,6 +28,8 @@ class Program
         using (var db = new WordsDbContext())
         {
             db.Database.EnsureCreated();
+            await db.Database.ExecuteSqlRawAsync($"PRAGMA user_version={DB_VERSION}");
+
             db.Set<TWords>().RemoveRange(db.Set<TWords>().ToArray());
 
             foreach (var category in categories)
@@ -51,10 +56,10 @@ class Program
                 var w = Activator.CreateInstance<TWords>();
                 w.Word = word.word;
                 w.Description = word.description;
-                
+
                 dynamic d = w;
                 d.Category = category;
-                
+
                 w.IsPro = !(word.isPro == "False" || word.isPro == "false");
                 w.Complexity = GetComplexity(word.complexity);
 
