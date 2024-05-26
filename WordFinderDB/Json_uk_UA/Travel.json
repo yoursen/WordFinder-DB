@@ -3,7 +3,7 @@
   {"word": "мотель", "description": "Невеликий готель зазвичай в при дорозі.", "category": "Подорожі", "complexity": "Easy"},
   {"word": "тур", "description": "Подорож, під час якої ви відвідуєте різні місця.", "category": "Подорожі", "complexity": "Easy"},
   {"word": "віза", "isPro" : "false", "description": "Дозвіл на в'їзд в іншу країну.", "category": "Подорожі", "complexity": "Medium"},
-  {"word": "хостел", "isPro" : "false", "description": "Бюджетне місце для ночування мандрівників.", "category": "Подорожі", "complexity": "Medium"},
+  {"word": "хостел", "description": "Бюджетне місце для ночування мандрівників.", "category": "Подорожі", "complexity": "Medium"},
   {"word": "маршрут", "description": "Запланований маршрут або подорож.", "category": "Подорожі", "complexity": "Medium"},
   {"word": "валюта", "description": "Тип грошей, що використовується в певній країні.", "category": "Подорожі", "complexity": "Medium"},
   {"word": "рюкзак", "description": "Сумка, яку носять на спині, щоб тримати речі.", "category": "Подорожі", "complexity": "Easy"},
